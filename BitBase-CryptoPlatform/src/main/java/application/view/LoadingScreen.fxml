@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="747.0" prefWidth="1328.0" style="-fx-background-color: #0F1D26;" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="application.controller.LoadingScreenContoller">
+   <children>
+      <Pane fx:id="pane" layoutX="5.0" layoutY="7.0" prefHeight="732.0" prefWidth="1317.0" style="-fx-background-color: #363B6A;" styleClass="rounded-item-home" stylesheets="@../style/style.css" AnchorPane.bottomAnchor="8.0" AnchorPane.leftAnchor="8.0" AnchorPane.rightAnchor="8.0" AnchorPane.topAnchor="8.0">
+         <children>
+            <Pane fx:id="logoutPane" layoutX="19.0" layoutY="662.0" prefHeight="44.0" prefWidth="200.0" styleClass="rounded-item-menu-logout">
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Pane>
+            <ImageView fx:id="loadingImg" fitHeight="627.0" fitWidth="627.0" layoutX="73.0" layoutY="9.0">
+               <image>
+                  <Image url="@../../../resources/images/loadingScreen.png" />
+               </image>
+            </ImageView>
+            <Label fx:id="baseLbl" layoutX="690.0" layoutY="348.0" text="Preparing your BitBase" textFill="WHITE">
+               <font>
+                  <Font name="Arial Bold Italic" size="31.0" />
+               </font>
+            </Label>
+            <Label fx:id="changingLbl" layoutX="1044.0" layoutY="344.0" text="Platform" textFill="#ff69eb">
+               <font>
+                  <Font name="Arial Bold Italic" size="37.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

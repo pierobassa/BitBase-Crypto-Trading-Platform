@@ -1,0 +1,1481 @@
+2021-09-05 23:37:35.053399300 admin Logged in.
+2021-09-05 23:37:35.107228300 admin Logged out.
+2021-09-05 23:37:42.716005300 admin Logged in.
+2021-09-05 23:37:42.826674900 admin Performed balance request
+2021-09-05 23:37:42.830663300 admin balance request successful
+2021-09-05 23:37:42.830663300 admin Performed amount owned request
+2021-09-05 23:37:42.833655 admin amount owned request successful
+2021-09-05 23:37:42.833655 admin Performed user transactions request
+2021-09-05 23:37:42.840637500 admin user transactions request successful
+2021-09-05 23:37:42.845623600 admin Performed crypto stats request
+2021-09-05 23:37:42.848615400 admin Server is updating. Retry later.
+2021-09-05 23:38:15.335040400 admin Logged out.
+2021-09-05 23:39:08.767575900 admin Logged in.
+2021-09-05 23:39:08.893721900 admin Performed balance request
+2021-09-05 23:39:08.895716500 admin balance request successful
+2021-09-05 23:39:08.901700100 admin Performed amount owned request
+2021-09-05 23:39:08.907684 admin amount owned request successful
+2021-09-05 23:39:08.907684 admin Performed user transactions request
+2021-09-05 23:39:08.919652100 admin user transactions request successful
+2021-09-05 23:39:08.919652100 admin Performed crypto stats request
+2021-09-05 23:39:08.925636500 admin Server is updating. Retry later.
+2021-09-05 23:40:09.158271900 bitcoinmaxi Logged in.
+2021-09-05 23:40:09.284932900 bitcoinmaxi Performed balance request
+2021-09-05 23:40:09.293909600 bitcoinmaxi balance request successful
+2021-09-05 23:40:09.293909600 bitcoinmaxi Performed amount owned request
+2021-09-05 23:40:09.297899200 bitcoinmaxi amount owned request successful
+2021-09-05 23:40:09.297899200 bitcoinmaxi Performed user transactions request
+2021-09-05 23:40:09.315850700 bitcoinmaxi user transactions request successful
+2021-09-05 23:40:09.316847800 bitcoinmaxi Performed crypto stats request
+2021-09-05 23:40:09.324826200 bitcoinmaxi Server is updating. Retry later.
+2021-09-05 23:41:00.955325900 bitcoinmaxi Logged out.
+2021-09-06 14:21:46.800193400 admin Logged in.
+2021-09-06 14:21:46.849567400 admin Logged out.
+2021-09-06 14:21:59.776646100 admin Logged in.
+2021-09-06 14:21:59.919808800 admin Performed balance request
+2021-09-06 14:21:59.923798900 admin balance request successful
+2021-09-06 14:21:59.923798900 admin Performed amount owned request
+2021-09-06 14:21:59.926790500 admin amount owned request successful
+2021-09-06 14:21:59.926790500 admin Performed user transactions request
+2021-09-06 14:21:59.932774500 admin user transactions request successful
+2021-09-06 14:21:59.939756300 admin Performed crypto stats request
+2021-09-06 14:21:59.942748 admin Server is updating. Retry later.
+2021-09-06 14:28:09.396787500 admin Logged out.
+2021-09-06 14:30:51.891497100 admin Logged in.
+2021-09-06 14:30:52.010111800 admin Performed balance request
+2021-09-06 14:30:52.012105900 admin balance request successful
+2021-09-06 14:30:52.013102900 admin Performed amount owned request
+2021-09-06 14:30:52.018090300 admin amount owned request successful
+2021-09-06 14:30:52.018090300 admin Performed user transactions request
+2021-09-06 14:30:52.024073900 admin user transactions request successful
+2021-09-06 14:30:52.031056200 admin Performed crypto stats request
+2021-09-06 14:30:52.033050300 admin Server is updating. Retry later.
+2021-09-06 14:33:04.479155800 admin Logged out.
+2021-09-06 15:15:50.548817700 admin Logged in.
+2021-09-06 15:15:50.599681600 admin Logged out.
+2021-09-06 15:18:17.948365 admin Logged in.
+2021-09-06 15:18:18.081979600 admin Performed balance request
+2021-09-06 15:18:18.089963200 admin balance request successful
+2021-09-06 15:18:18.089963200 admin Performed amount owned request
+2021-09-06 15:18:18.093947600 admin amount owned request successful
+2021-09-06 15:18:18.093947600 admin Performed user transactions request
+2021-09-06 15:18:18.101926500 admin user transactions request successful
+2021-09-06 15:18:18.102923500 admin Performed crypto stats request
+2021-09-06 15:18:18.104918500 admin Server is updating. Retry later.
+2021-09-06 15:18:25.642644100 admin Logged out.
+2021-09-06 15:19:24.710183300 admin Logged in.
+2021-09-06 15:19:24.837970900 admin Performed balance request
+2021-09-06 15:19:24.838967900 admin balance request successful
+2021-09-06 15:19:24.838967900 admin Performed amount owned request
+2021-09-06 15:19:24.839965700 admin amount owned request successful
+2021-09-06 15:19:24.839965700 admin Performed user transactions request
+2021-09-06 15:19:24.841960400 admin user transactions request successful
+2021-09-06 15:19:24.852443100 admin Performed crypto stats request
+2021-09-06 15:19:24.853440200 admin Server is updating. Retry later.
+2021-09-06 15:19:31.112754300 admin Logged out.
+2021-09-06 15:29:23.190848900 prova signed up.
+2021-09-06 15:29:36.452664 prova Logged in.
+2021-09-06 15:29:36.698563600 prova Performed balance request
+2021-09-06 15:29:36.698563600 prova balance request successful
+2021-09-06 15:29:36.699560700 prova Performed amount owned request
+2021-09-06 15:29:36.700558500 prova amount owned request successful
+2021-09-06 15:29:36.700558500 prova Performed user transactions request
+2021-09-06 15:29:36.703550100 prova user transactions request successful
+2021-09-06 15:29:36.723496900 prova Performed crypto stats request
+2021-09-06 15:29:36.725490700 prova Server is updating. Retry later.
+2021-09-06 15:30:25.856398200 prova Logged out.
+2021-09-06 15:30:37.278217400 prova Logged in.
+2021-09-06 15:30:37.402885 prova Performed balance request
+2021-09-06 15:30:37.403881600 prova balance request successful
+2021-09-06 15:30:37.403881600 prova Performed amount owned request
+2021-09-06 15:30:37.404879300 prova amount owned request successful
+2021-09-06 15:30:37.404879300 prova Performed user transactions request
+2021-09-06 15:30:37.405876200 prova user transactions request successful
+2021-09-06 15:30:37.420836100 prova Performed crypto stats request
+2021-09-06 15:30:37.422831 prova Server is updating. Retry later.
+2021-09-06 15:30:48.623521300 prova Logged out.
+2021-09-06 15:32:53.953080600 admin Logged in.
+2021-09-06 15:32:54.081365400 admin Performed balance request
+2021-09-06 15:32:54.086352200 admin balance request successful
+2021-09-06 15:32:54.086352200 admin Performed amount owned request
+2021-09-06 15:32:54.091338700 admin amount owned request successful
+2021-09-06 15:32:54.091338700 admin Performed user transactions request
+2021-09-06 15:32:54.101311900 admin user transactions request successful
+2021-09-06 15:32:54.101311900 admin Performed crypto stats request
+2021-09-06 15:32:54.103308700 admin Server is updating. Retry later.
+2021-09-06 15:33:02.426887800 admin Logged out.
+2021-09-06 15:36:26.836313100 prova signed up.
+2021-09-06 15:36:33.821379400 prova Logged in.
+2021-09-06 15:36:33.853578500 prova Logged out.
+2021-09-06 15:38:29.161359600 prova Logged in.
+2021-09-06 15:38:29.283805400 prova Performed balance request
+2021-09-06 15:38:29.286797900 prova balance request successful
+2021-09-06 15:38:29.286797900 prova Performed amount owned request
+2021-09-06 15:38:29.289789600 prova amount owned request successful
+2021-09-06 15:38:29.289789600 prova Performed user transactions request
+2021-09-06 15:38:29.295775600 prova user transactions request successful
+2021-09-06 15:38:29.304749900 prova Performed crypto stats request
+2021-09-06 15:38:29.306744700 prova Server is updating. Retry later.
+2021-09-06 15:38:37.086301400 prova Logged out.
+2021-09-06 15:39:55.323374300 prova Logged in.
+2021-09-06 15:39:55.381194400 prova Performed balance request
+2021-09-06 15:39:55.382192100 prova balance request successful
+2021-09-06 15:39:55.382192100 prova Performed amount owned request
+2021-09-06 15:39:55.384187 prova amount owned request successful
+2021-09-06 15:39:55.386180800 prova Performed user transactions request
+2021-09-06 15:39:55.387178700 prova user transactions request successful
+2021-09-06 15:39:55.387178700 prova Performed crypto stats request
+2021-09-06 15:39:55.389173 prova Server is updating. Retry later.
+2021-09-06 15:40:02.427336900 prova Logged out.
+2021-09-06 15:40:11.037280800 prova Logged in.
+2021-09-06 15:40:11.093096400 prova Performed balance request
+2021-09-06 15:40:11.095092400 prova balance request successful
+2021-09-06 15:40:11.095092400 prova Performed amount owned request
+2021-09-06 15:40:11.098083900 prova amount owned request successful
+2021-09-06 15:40:11.098083900 prova Performed user transactions request
+2021-09-06 15:40:11.099080500 prova user transactions request successful
+2021-09-06 15:40:11.099080500 prova Performed crypto stats request
+2021-09-06 15:40:11.101075800 prova Server is updating. Retry later.
+2021-09-06 15:40:22.163650200 prova Logged in.
+2021-09-06 15:40:28.554453900 prova Logged out.
+2021-09-06 15:44:07.361615200 prova signed up.
+2021-09-06 15:48:23.150169500 admin Logged in.
+2021-09-06 15:48:23.261837200 admin Performed balance request
+2021-09-06 15:48:23.265825600 admin balance request successful
+2021-09-06 15:48:23.265825600 admin Performed amount owned request
+2021-09-06 15:48:23.267820900 admin amount owned request successful
+2021-09-06 15:48:23.268818200 admin Performed user transactions request
+2021-09-06 15:48:23.273804300 admin user transactions request successful
+2021-09-06 15:48:23.284775900 admin Performed crypto stats request
+2021-09-06 15:48:23.287767100 admin Server is updating. Retry later.
+2021-09-06 15:48:29.763915 admin Logged out.
+2021-09-06 15:48:53.398384500 test signed up.
+2021-09-06 15:48:58.422588300 test Logged in.
+2021-09-06 15:49:15.801320 test Logged in.
+2021-09-06 15:52:44.660370 prova signed up.
+2021-09-06 15:54:41.657790500 prova Logged in.
+2021-09-06 15:54:41.788442300 prova Performed balance request
+2021-09-06 15:54:41.793429900 prova balance request successful
+2021-09-06 15:54:41.793429900 prova Performed amount owned request
+2021-09-06 15:54:41.797419300 prova amount owned request successful
+2021-09-06 15:54:41.797419300 prova Performed user transactions request
+2021-09-06 15:54:41.800411 prova user transactions request successful
+2021-09-06 15:54:41.803402300 prova Performed crypto stats request
+2021-09-06 15:54:41.806394500 prova Server is updating. Retry later.
+2021-09-06 15:54:49.980591100 prova Logged out.
+2021-09-06 15:55:04.099281200 test signed up.
+2021-09-06 15:55:12.303387500 test Logged in.
+2021-09-06 15:55:12.360719 test Performed balance request
+2021-09-06 15:55:12.361717400 test balance request successful
+2021-09-06 15:55:12.361717400 test Performed amount owned request
+2021-09-06 15:55:12.362714900 test amount owned request successful
+2021-09-06 15:55:12.362714900 test Performed user transactions request
+2021-09-06 15:55:12.363710900 test user transactions request successful
+2021-09-06 15:55:12.363710900 test Performed crypto stats request
+2021-09-06 15:55:12.366703500 test Server is updating. Retry later.
+2021-09-06 15:55:29.681394500 prova Logged in.
+2021-09-06 15:55:29.831957600 prova Performed balance request
+2021-09-06 15:55:29.834950 prova balance request successful
+2021-09-06 15:55:29.843926 prova Performed amount owned request
+2021-09-06 15:55:29.845922800 prova amount owned request successful
+2021-09-06 15:55:29.845922800 prova Performed user transactions request
+2021-09-06 15:55:29.846917900 prova user transactions request successful
+2021-09-06 15:55:29.846917900 prova Performed crypto stats request
+2021-09-06 15:55:29.848912300 prova Server is updating. Retry later.
+2021-09-06 15:56:26.193848 test Logged out.
+2021-09-06 15:56:26.530946600 prova Logged out.
+2021-09-06 15:57:57.633029900 test1 signed up.
+2021-09-06 15:58:04.664703300 test1 Logged in.
+2021-09-06 15:58:04.691184600 test1 Logged out.
+2021-09-06 15:59:32.287444900 test1 Logged in.
+2021-09-06 15:59:32.309247800 test1 Logged out.
+2021-09-06 16:04:50.348564500 admin Logged in.
+2021-09-06 16:04:50.464224600 admin Performed balance request
+2021-09-06 16:04:50.468214600 admin balance request successful
+2021-09-06 16:04:50.468214600 admin Performed amount owned request
+2021-09-06 16:04:50.470208900 admin amount owned request successful
+2021-09-06 16:04:50.471206500 admin Performed user transactions request
+2021-09-06 16:04:50.479184 admin user transactions request successful
+2021-09-06 16:04:50.524065300 admin Performed crypto stats request
+2021-09-06 16:04:50.526059700 admin Server is updating. Retry later.
+2021-09-06 16:05:51.364806500 admin Logged out.
+2021-09-06 16:05:56.580800 admin Logged in.
+2021-09-06 16:05:56.637648900 admin Performed balance request
+2021-09-06 16:05:56.638646700 admin balance request successful
+2021-09-06 16:05:56.640641200 admin Performed amount owned request
+2021-09-06 16:05:56.641638300 admin amount owned request successful
+2021-09-06 16:05:56.641638300 admin Performed user transactions request
+2021-09-06 16:05:56.644630 admin user transactions request successful
+2021-09-06 16:05:56.644630 admin Performed crypto stats request
+2021-09-06 16:05:56.646624500 admin Server is updating. Retry later.
+2021-09-06 16:06:04.123376700 admin Logged out.
+2021-09-06 16:08:45.206426200 etherwinner Logged in.
+2021-09-06 16:08:45.331325600 etherwinner Performed balance request
+2021-09-06 16:08:45.337309600 etherwinner balance request successful
+2021-09-06 16:08:45.337309600 etherwinner Performed amount owned request
+2021-09-06 16:08:45.339304100 etherwinner amount owned request successful
+2021-09-06 16:08:45.339304100 etherwinner Performed user transactions request
+2021-09-06 16:08:45.346285700 etherwinner user transactions request successful
+2021-09-06 16:08:45.356259100 etherwinner Performed crypto stats request
+2021-09-06 16:08:45.360248100 etherwinner Server is updating. Retry later.
+2021-09-06 16:08:59.735675 etherwinner Performed update password request
+2021-09-06 16:09:07.103673100 etherwinner Performed update password request
+2021-09-06 16:09:07.912543 etherwinner changed password
+2021-09-06 16:09:14.193357800 etherwinner Performed update password request
+2021-09-06 16:09:21.826785900 etherwinner Performed update password request
+2021-09-06 16:09:22.597582800 etherwinner changed password
+2021-09-06 16:09:25.057882500 etherwinner Logged out.
+2021-09-06 16:09:39.775622300 etherwinner Logged in.
+2021-09-06 16:09:39.829466900 etherwinner Performed balance request
+2021-09-06 16:09:39.833456700 etherwinner balance request successful
+2021-09-06 16:09:39.834454400 etherwinner Performed amount owned request
+2021-09-06 16:09:39.835451500 etherwinner amount owned request successful
+2021-09-06 16:09:39.835451500 etherwinner Performed user transactions request
+2021-09-06 16:09:39.838442900 etherwinner user transactions request successful
+2021-09-06 16:09:39.838442900 etherwinner Performed crypto stats request
+2021-09-06 16:09:39.839440700 etherwinner Server is updating. Retry later.
+2021-09-06 16:09:51.613103 etherwinner Logged out.
+2021-09-06 16:13:00.331208 admin Logged in.
+2021-09-06 16:13:00.445902 admin Performed balance request
+2021-09-06 16:13:00.446900300 admin balance request successful
+2021-09-06 16:13:00.447897300 admin Performed amount owned request
+2021-09-06 16:13:00.448894800 admin amount owned request successful
+2021-09-06 16:13:00.448894800 admin Performed user transactions request
+2021-09-06 16:13:00.450889900 admin user transactions request successful
+2021-09-06 16:13:00.461860400 admin Performed crypto stats request
+2021-09-06 16:13:00.463853900 admin Server is updating. Retry later.
+2021-09-06 16:13:06.898817300 admin Logged out.
+2021-09-06 16:20:47.226186700 admin Logged in.
+2021-09-06 16:20:47.376295900 admin Performed balance request
+2021-09-06 16:20:47.377293700 admin balance request successful
+2021-09-06 16:20:47.377293700 admin Performed amount owned request
+2021-09-06 16:20:47.379288 admin amount owned request successful
+2021-09-06 16:20:47.379288 admin Performed user transactions request
+2021-09-06 16:20:47.381282700 admin user transactions request successful
+2021-09-06 16:20:47.393250400 admin Performed crypto stats request
+2021-09-06 16:20:47.395244900 admin Server is updating. Retry later.
+2021-09-06 16:20:57.089466100 admin Logged out.
+2021-09-06 16:38:38.094935 admin Logged in.
+2021-09-06 16:38:38.218116600 admin Performed balance request
+2021-09-06 16:38:38.219113800 admin balance request successful
+2021-09-06 16:38:38.219113800 admin Performed amount owned request
+2021-09-06 16:38:38.220111900 admin amount owned request successful
+2021-09-06 16:38:38.221109200 admin Performed user transactions request
+2021-09-06 16:38:38.222106200 admin user transactions request successful
+2021-09-06 16:38:38.252026 admin Performed crypto stats request
+2021-09-06 16:38:38.253024600 admin Server is updating. Retry later.
+2021-09-06 16:38:49.401979 admin Logged out.
+2021-09-06 16:48:02.827309600 admin Logged in.
+2021-09-06 16:48:02.990874 admin Performed balance request
+2021-09-06 16:48:02.991871500 admin balance request successful
+2021-09-06 16:48:02.991871500 admin Performed amount owned request
+2021-09-06 16:48:02.992868800 admin amount owned request successful
+2021-09-06 16:48:02.992868800 admin Performed user transactions request
+2021-09-06 16:48:02.994864300 admin user transactions request successful
+2021-09-06 16:48:03.060687600 admin Performed crypto stats request
+2021-09-06 16:48:03.062682100 admin Server is updating. Retry later.
+2021-09-06 16:49:16.410558300 admin Logged out.
+2021-09-06 16:50:30.197286500 admin Logged in.
+2021-09-06 16:50:30.320469200 admin Performed balance request
+2021-09-06 16:50:30.321466400 admin balance request successful
+2021-09-06 16:50:30.321466400 admin Performed amount owned request
+2021-09-06 16:50:30.323461100 admin amount owned request successful
+2021-09-06 16:50:30.323461100 admin Performed user transactions request
+2021-09-06 16:50:30.325455300 admin user transactions request successful
+2021-09-06 16:50:30.340415500 admin Performed crypto stats request
+2021-09-06 16:50:30.341413 admin Server is updating. Retry later.
+2021-09-06 16:51:04.584031 admin Logged out.
+2021-09-06 16:55:22.245256700 admin Logged in.
+2021-09-06 16:55:22.358951900 admin Performed balance request
+2021-09-06 16:55:22.359951100 admin balance request successful
+2021-09-06 16:55:22.359951100 admin Performed amount owned request
+2021-09-06 16:55:22.359951100 admin amount owned request successful
+2021-09-06 16:55:22.360975200 admin Performed user transactions request
+2021-09-06 16:55:22.361945200 admin user transactions request successful
+2021-09-06 16:55:22.376905500 admin Performed crypto stats request
+2021-09-06 16:55:22.390867200 admin Server is updating. Retry later.
+2021-09-06 16:56:31.413070300 admin Logged out.
+2021-09-06 17:01:16.016490800 admin Logged in.
+2021-09-06 17:01:16.140161500 admin Performed balance request
+2021-09-06 17:01:16.141158200 admin balance request successful
+2021-09-06 17:01:16.141158200 admin Performed amount owned request
+2021-09-06 17:01:16.142155400 admin amount owned request successful
+2021-09-06 17:01:16.142155400 admin Performed user transactions request
+2021-09-06 17:01:16.144150100 admin user transactions request successful
+2021-09-06 17:01:16.156118600 admin Performed crypto stats request
+2021-09-06 17:01:16.157115200 admin Server is updating. Retry later.
+2021-09-06 17:04:06.955606600 admin Logged out.
+2021-09-06 17:05:07.580533 admin Logged in.
+2021-09-06 17:05:07.733090400 admin Performed balance request
+2021-09-06 17:05:07.734088100 admin balance request successful
+2021-09-06 17:05:07.735086 admin Performed amount owned request
+2021-09-06 17:05:07.736082500 admin amount owned request successful
+2021-09-06 17:05:07.736082500 admin Performed user transactions request
+2021-09-06 17:05:07.737082500 admin user transactions request successful
+2021-09-06 17:05:07.754035300 admin Performed crypto stats request
+2021-09-06 17:05:07.755032300 admin Server is updating. Retry later.
+2021-09-06 17:05:32.069065100 admin Logged out.
+2021-09-07 13:58:24.053197400 test signed up.
+2021-09-07 13:58:56.730986100 prova signed up.
+2021-09-07 13:59:15.451177600 prova Logged in.
+2021-09-07 13:59:15.582050900 prova Performed balance request
+2021-09-07 13:59:15.588032600 prova balance request successful
+2021-09-07 13:59:15.589030400 prova Performed amount owned request
+2021-09-07 13:59:15.591025400 prova amount owned request successful
+2021-09-07 13:59:15.592023800 prova Performed user transactions request
+2021-09-07 13:59:15.595014300 prova user transactions request successful
+2021-09-07 13:59:15.623937400 prova Performed crypto stats request
+2021-09-07 13:59:15.625931500 prova Server is updating. Retry later.
+2021-09-07 13:59:35.363582900 prova Performed deposit request
+2021-09-07 13:59:35.381535500 prova deposited from card
+2021-09-07 13:59:39.892417200 prova Performed transaction request
+2021-09-07 13:59:39.938298900 prova transaction request successful.
+2021-09-07 13:59:47.696877400 prova Performed transaction request
+2021-09-07 13:59:47.731783300 prova transaction request successful.
+2021-09-07 14:00:11.146708300 prova Performed transaction request
+2021-09-07 14:00:11.172637600 prova transaction request successful.
+2021-09-07 14:00:16.903398400 prova Performed transaction request
+2021-09-07 14:00:16.927334800 prova transaction request successful.
+2021-09-07 14:00:30.655934500 prova Performed transaction request
+2021-09-07 14:00:30.692835900 prova transaction request successful.
+2021-09-07 14:00:44.311768600 prova Performed transaction request
+2021-09-07 14:00:44.351662100 prova transaction request successful.
+2021-09-07 14:00:54.721830 prova Performed transaction request
+2021-09-07 14:00:54.755739400 prova transaction request successful.
+2021-09-07 14:05:43.211052600 prova Logged out.
+2021-09-07 14:07:23.121203100 prova Logged in.
+2021-09-07 14:07:23.239153500 prova Performed balance request
+2021-09-07 14:07:23.240151500 prova balance request successful
+2021-09-07 14:07:23.240151500 prova Performed amount owned request
+2021-09-07 14:07:23.242145700 prova amount owned request successful
+2021-09-07 14:07:23.244140200 prova Performed user transactions request
+2021-09-07 14:07:23.246134900 prova user transactions request successful
+2021-09-07 14:07:23.269073700 prova Performed crypto stats request
+2021-09-07 14:07:23.270071200 prova Server is updating. Retry later.
+2021-09-07 14:08:53.316134500 prova Logged out.
+2021-09-07 14:09:14.983611100 prova Logged in.
+2021-09-07 14:09:15.056576500 prova Performed balance request
+2021-09-07 14:09:15.057574100 prova balance request successful
+2021-09-07 14:09:15.057574100 prova Performed amount owned request
+2021-09-07 14:09:15.058571200 prova amount owned request successful
+2021-09-07 14:09:15.058571200 prova Performed user transactions request
+2021-09-07 14:09:15.060565600 prova user transactions request successful
+2021-09-07 14:09:15.062610300 prova Performed crypto stats request
+2021-09-07 14:09:15.064587700 prova Server is updating. Retry later.
+2021-09-07 14:09:26.731467400 prova Logged out.
+2021-09-07 21:47:27.015737 admin Logged in.
+2021-09-07 21:47:27.154366 admin Performed balance request
+2021-09-07 21:47:27.159352800 admin balance request successful
+2021-09-07 21:47:27.159352800 admin Performed amount owned request
+2021-09-07 21:47:27.162344500 admin amount owned request successful
+2021-09-07 21:47:27.162344500 admin Performed user transactions request
+2021-09-07 21:47:27.172318500 admin user transactions request successful
+2021-09-07 21:47:27.187278200 admin Performed crypto stats request
+2021-09-07 21:47:27.189273 admin Server is updating. Retry later.
+2021-09-07 21:51:15.264954 admin Logged out.
+2021-09-07 22:02:26.345501400 admin Logged in.
+2021-09-07 22:02:26.484640600 admin Performed balance request
+2021-09-07 22:02:26.487632600 admin balance request successful
+2021-09-07 22:02:26.503589800 admin Performed amount owned request
+2021-09-07 22:02:26.513563 admin amount owned request successful
+2021-09-07 22:02:26.513563 admin Performed user transactions request
+2021-09-07 22:02:26.521541500 admin user transactions request successful
+2021-09-07 22:02:26.521541500 admin Performed crypto stats request
+2021-09-07 22:02:26.536502 admin Server is updating. Retry later.
+2021-09-07 22:04:08.204233600 admin Logged out.
+2021-09-08 22:37:25.939325500 admin Logged in.
+2021-09-08 22:37:26.111863 admin Performed balance request
+2021-09-08 22:37:26.118846300 admin balance request successful
+2021-09-08 22:37:26.118846300 admin Performed amount owned request
+2021-09-08 22:37:26.121836800 admin amount owned request successful
+2021-09-08 22:37:26.121836800 admin Performed user transactions request
+2021-09-08 22:37:26.127824800 admin user transactions request successful
+2021-09-08 22:37:26.235533400 admin Performed crypto stats request
+2021-09-08 22:37:26.238524 admin Server is updating. Retry later.
+2021-09-08 22:38:56.000941300 admin Logged out.
+2021-09-08 22:40:18.220101300 superbear signed up.
+2021-09-08 22:40:24.588033400 superbear Logged in.
+2021-09-08 22:40:24.728658100 superbear Performed balance request
+2021-09-08 22:40:24.736636300 superbear balance request successful
+2021-09-08 22:40:24.736636300 superbear Performed amount owned request
+2021-09-08 22:40:24.739628300 superbear amount owned request successful
+2021-09-08 22:40:24.739628300 superbear Performed user transactions request
+2021-09-08 22:40:24.745612500 superbear user transactions request successful
+2021-09-08 22:40:24.748604300 superbear Performed crypto stats request
+2021-09-08 22:40:24.754588400 superbear Server is updating. Retry later.
+2021-09-08 22:41:36.455471800 superbear Performed deposit request
+2021-09-08 22:41:36.493373200 superbear deposited from card
+2021-09-08 22:41:48.504793100 superbear Performed transaction request
+2021-09-08 22:41:48.576600300 superbear transaction request successful.
+2021-09-08 22:42:01.012192800 superbear Performed transaction request
+2021-09-08 22:42:01.045105400 superbear transaction request successful.
+2021-09-08 22:42:13.374881500 superbear Performed transaction request
+2021-09-08 22:42:13.474976300 superbear transaction request successful.
+2021-09-08 22:42:36.165308200 superbear Performed transaction request
+2021-09-08 22:42:36.200214500 superbear transaction request successful.
+2021-09-08 22:42:46.192275200 superbear Performed transaction request
+2021-09-08 22:42:46.227692400 superbear transaction request successful.
+2021-09-08 22:42:54.926039800 superbear Performed transaction request
+2021-09-08 22:42:54.972914900 superbear transaction request successful.
+2021-09-08 22:43:06.311198700 superbear Performed transaction request
+2021-09-08 22:43:06.338126500 superbear transaction request successful.
+2021-09-08 22:43:14.152119800 superbear Performed transaction request
+2021-09-08 22:43:14.187023100 superbear transaction request successful.
+2021-09-08 22:49:38.815947900 superbear Performed transaction request
+2021-09-08 22:49:38.854842900 superbear transaction request successful.
+2021-09-08 22:49:47.709331900 superbear Performed transaction request
+2021-09-08 22:49:47.750222300 superbear transaction request successful.
+2021-09-08 22:52:37.696723800 superbear Performed withdraw request
+2021-09-08 22:52:37.723163700 superbear withdraw request successful
+2021-09-08 22:53:12.186133900 superbear Performed send request
+2021-09-08 22:53:12.249963800 superbear send request successful
+2021-09-08 22:59:22.102957800 superbear Logged out.
+2021-09-08 22:59:35.340366800 superbear Logged in.
+2021-09-08 22:59:35.477999300 superbear Performed balance request
+2021-09-08 22:59:35.479993700 superbear balance request successful
+2021-09-08 22:59:35.480991600 superbear Performed amount owned request
+2021-09-08 22:59:35.484980100 superbear amount owned request successful
+2021-09-08 22:59:35.484980100 superbear Performed user transactions request
+2021-09-08 22:59:35.517892 superbear user transactions request successful
+2021-09-08 22:59:35.518889800 superbear Performed crypto stats request
+2021-09-08 22:59:35.543822200 superbear Server is updating. Retry later.
+2021-09-08 22:59:57.292742400 superbear Performed deposit request
+2021-09-08 22:59:57.336623600 superbear deposited from card
+2021-09-08 23:00:12.220188800 superbear Performed withdraw request
+2021-09-08 23:00:12.232132600 superbear withdraw request successful
+2021-09-08 23:00:23.059043 superbear Performed transaction request
+2021-09-08 23:00:23.134841200 superbear transaction request successful.
+2021-09-08 23:00:39.091847600 superbear Logged out.
+2021-09-08 23:01:59.755692200 superbear Logged in.
+2021-09-08 23:01:59.912274700 superbear Performed balance request
+2021-09-08 23:01:59.912274700 superbear balance request successful
+2021-09-08 23:01:59.913272600 superbear Performed amount owned request
+2021-09-08 23:01:59.940200900 superbear amount owned request successful
+2021-09-08 23:01:59.940200900 superbear Performed user transactions request
+2021-09-08 23:01:59.958215300 superbear user transactions request successful
+2021-09-08 23:01:59.958215300 superbear Performed crypto stats request
+2021-09-08 23:01:59.961207500 superbear Server is updating. Retry later.
+2021-09-08 23:02:29.424828400 superbear Performed deposit request
+2021-09-08 23:02:29.454748500 superbear deposited from card
+2021-09-08 23:02:41.336969200 superbear Logged out.
+2021-09-08 23:09:34.603902600 admin Logged in.
+2021-09-08 23:09:34.752530500 admin Performed balance request
+2021-09-08 23:09:34.753526400 admin balance request successful
+2021-09-08 23:09:34.753526400 admin Performed amount owned request
+2021-09-08 23:09:34.756519100 admin amount owned request successful
+2021-09-08 23:09:34.756519100 admin Performed user transactions request
+2021-09-08 23:09:34.760508300 admin user transactions request successful
+2021-09-08 23:09:34.774470800 admin Performed crypto stats request
+2021-09-08 23:09:34.775467700 admin Server is updating. Retry later.
+2021-09-08 23:11:40.842513700 admin Logged out.
+2021-09-10 21:27:41.064327 admin Logged in.
+2021-09-10 21:27:41.195975600 admin Performed balance request
+2021-09-10 21:27:41.201973700 admin balance request successful
+2021-09-10 21:27:41.201973700 admin Performed amount owned request
+2021-09-10 21:27:41.204951900 admin amount owned request successful
+2021-09-10 21:27:41.205949900 admin Performed user transactions request
+2021-09-10 21:27:41.211932600 admin user transactions request successful
+2021-09-10 21:27:41.250828700 admin Performed crypto stats request
+2021-09-10 21:27:41.253820400 admin Server is updating. Retry later.
+2021-09-10 21:44:14.152978600 admin Logged in.
+2021-09-10 21:44:17.757337400 admin Logged out.
+2021-09-10 21:44:22.765508600 admin Logged in.
+2021-09-10 21:44:22.887184100 admin Performed balance request
+2021-09-10 21:44:22.890175800 admin balance request successful
+2021-09-10 21:44:22.890175800 admin Performed amount owned request
+2021-09-10 21:44:22.897160200 admin amount owned request successful
+2021-09-10 21:44:22.897160200 admin Performed user transactions request
+2021-09-10 21:44:22.916106600 admin user transactions request successful
+2021-09-10 21:44:22.918101100 admin Performed crypto stats request
+2021-09-10 21:44:22.930069500 admin Server is updating. Retry later.
+2021-09-10 21:44:36.094190200 admin Logged out.
+2021-09-10 21:48:51.987423200 admin Logged in.
+2021-09-10 21:48:52.128048800 admin Performed balance request
+2021-09-10 21:48:52.129045900 admin balance request successful
+2021-09-10 21:48:52.130043700 admin Performed amount owned request
+2021-09-10 21:48:52.131040300 admin amount owned request successful
+2021-09-10 21:48:52.132038100 admin Performed user transactions request
+2021-09-10 21:48:52.136026700 admin user transactions request successful
+2021-09-10 21:48:52.136026700 admin Performed crypto stats request
+2021-09-10 21:48:52.140016900 admin Server is updating. Retry later.
+2021-09-10 21:49:12.148049100 admin Logged out.
+2021-09-10 21:49:49.004181300 admin Logged in.
+2021-09-10 21:49:49.198662500 admin Performed balance request
+2021-09-10 21:49:49.200657600 admin balance request successful
+2021-09-10 21:49:49.201653700 admin Performed amount owned request
+2021-09-10 21:49:49.202652 admin amount owned request successful
+2021-09-10 21:49:49.202652 admin Performed user transactions request
+2021-09-10 21:49:49.204645900 admin user transactions request successful
+2021-09-10 21:49:49.205644100 admin Performed crypto stats request
+2021-09-10 21:49:49.207638100 admin Server is updating. Retry later.
+2021-09-10 21:49:58.467613800 admin Logged out.
+2021-09-10 21:51:24.733164200 admin Logged in.
+2021-09-10 21:51:24.883254 admin Performed balance request
+2021-09-10 21:51:24.884251400 admin balance request successful
+2021-09-10 21:51:24.884251400 admin Performed amount owned request
+2021-09-10 21:51:24.885249600 admin amount owned request successful
+2021-09-10 21:51:24.885249600 admin Performed user transactions request
+2021-09-10 21:51:24.886246200 admin user transactions request successful
+2021-09-10 21:51:24.887243200 admin Performed crypto stats request
+2021-09-10 21:51:24.888240100 admin Server is updating. Retry later.
+2021-09-10 21:51:34.912927400 admin Logged out.
+2021-09-10 21:54:50.473727400 admin Logged in.
+2021-09-10 21:54:50.489685300 admin Logged out.
+2021-09-10 21:57:40.064428700 admin Logged in.
+2021-09-10 21:57:40.231404900 admin Performed balance request
+2021-09-10 21:57:40.236422500 admin balance request successful
+2021-09-10 21:57:40.238416800 admin Performed amount owned request
+2021-09-10 21:57:40.241409400 admin amount owned request successful
+2021-09-10 21:57:40.242406500 admin Performed user transactions request
+2021-09-10 21:57:40.248418200 admin user transactions request successful
+2021-09-10 21:57:40.248418200 admin Performed crypto stats request
+2021-09-10 21:57:40.250412600 admin Server is updating. Retry later.
+2021-09-10 21:58:00.236665300 admin Logged out.
+2021-09-10 22:06:19.898363200 admin Logged in.
+2021-09-10 22:06:19.923298 admin Logged out.
+2021-09-10 22:06:54.766010300 admin Logged in.
+2021-09-10 22:06:54.922591400 admin performed balance request
+2021-09-10 22:06:54.926580700 admin balance request successful
+2021-09-10 22:06:54.926580700 admin performed amount owned request
+2021-09-10 22:06:54.928578900 admin amount owned request successful
+2021-09-10 22:06:54.929572200 admin performed user transactions request
+2021-09-10 22:06:54.934559300 admin user transactions request successful
+2021-09-10 22:06:54.934559300 admin performed crypto stats request
+2021-09-10 22:06:54.937551 admin crypto stats request successfull
+2021-09-10 22:07:01.800848100 admin Logged out.
+2021-09-10 22:07:47.083614200 admin Logged in.
+2021-09-10 22:07:47.219252300 admin performed balance request
+2021-09-10 22:07:47.222244500 admin balance request successful
+2021-09-10 22:07:47.222244500 admin performed amount owned request
+2021-09-10 22:07:47.225235800 admin amount owned request successful
+2021-09-10 22:07:47.225235800 admin performed user transactions request
+2021-09-10 22:07:47.232218800 admin user transactions request successful
+2021-09-10 22:07:47.232218800 admin performed crypto stats request
+2021-09-10 22:07:47.235209200 admin crypto stats request successfull
+2021-09-10 22:08:33.726046200 admin Logged out.
+2021-09-10 22:08:52.248570700 admin Logged in.
+2021-09-10 22:08:52.399167500 admin performed balance request
+2021-09-10 22:08:52.403157200 admin balance request successful
+2021-09-10 22:08:52.403157200 admin performed amount owned request
+2021-09-10 22:08:52.406149300 admin amount owned request successful
+2021-09-10 22:08:52.406149300 admin performed user transactions request
+2021-09-10 22:08:52.411135600 admin user transactions request successful
+2021-09-10 22:08:52.411135600 admin performed crypto stats request
+2021-09-10 22:08:52.413130500 admin crypto stats request successfull
+2021-09-10 22:09:01.017829100 admin Logged out.
+2021-09-10 22:09:12.762951700 etherwinner Logged in.
+2021-09-10 22:09:12.822760600 etherwinner performed balance request
+2021-09-10 22:09:12.823758100 etherwinner balance request successful
+2021-09-10 22:09:12.823758100 etherwinner performed amount owned request
+2021-09-10 22:09:12.825753 etherwinner amount owned request successful
+2021-09-10 22:09:12.825753 etherwinner performed user transactions request
+2021-09-10 22:09:12.836723400 etherwinner user transactions request successful
+2021-09-10 22:09:12.836723400 etherwinner performed crypto stats request
+2021-09-10 22:09:12.838718400 etherwinner crypto stats request successfull
+2021-09-10 22:10:12.694442300 etherwinner Logged out.
+2021-09-10 22:11:13.087453 etherwinner Logged in.
+2021-09-10 22:11:13.217492500 etherwinner performed balance request
+2021-09-10 22:11:13.217492500 etherwinner balance request successful
+2021-09-10 22:11:13.218490 etherwinner performed amount owned request
+2021-09-10 22:11:13.219487300 etherwinner amount owned request successful
+2021-09-10 22:11:13.219487300 etherwinner performed user transactions request
+2021-09-10 22:11:13.221482500 etherwinner user transactions request successful
+2021-09-10 22:11:13.221482500 etherwinner performed crypto stats request
+2021-09-10 22:11:13.223476900 etherwinner crypto stats request successfull
+2021-09-10 22:18:16.563807500 etherwinner Logged out.
+2021-09-10 22:18:46.059244 etherwinner Logged in.
+2021-09-10 22:18:46.199869300 etherwinner performed balance request
+2021-09-10 22:18:46.200866700 etherwinner balance request successful
+2021-09-10 22:18:46.200866700 etherwinner performed amount owned request
+2021-09-10 22:18:46.202860700 etherwinner amount owned request successful
+2021-09-10 22:18:46.203858500 etherwinner performed user transactions request
+2021-09-10 22:18:46.205853200 etherwinner user transactions request successful
+2021-09-10 22:18:46.205853200 etherwinner performed crypto stats request
+2021-09-10 22:18:46.207848500 etherwinner crypto stats request successfull
+2021-09-10 22:20:06.203076 etherwinner Logged out.
+2021-09-10 22:20:24.368502500 bitcoinmaxi Logged in.
+2021-09-10 22:20:24.532420 bitcoinmaxi performed balance request
+2021-09-10 22:20:24.533416700 bitcoinmaxi balance request successful
+2021-09-10 22:20:24.533416700 bitcoinmaxi performed amount owned request
+2021-09-10 22:20:24.534414700 bitcoinmaxi amount owned request successful
+2021-09-10 22:20:24.534414700 bitcoinmaxi performed user transactions request
+2021-09-10 22:20:24.536409300 bitcoinmaxi user transactions request successful
+2021-09-10 22:20:24.536409300 bitcoinmaxi performed crypto stats request
+2021-09-10 22:20:24.538404 bitcoinmaxi crypto stats request successfull
+2021-09-10 22:20:59.876850100 admin Logged in.
+2021-09-10 22:21:00.020429900 admin performed balance request
+2021-09-10 22:21:00.021426600 admin balance request successful
+2021-09-10 22:21:00.021426600 admin performed amount owned request
+2021-09-10 22:21:00.022424500 admin amount owned request successful
+2021-09-10 22:21:00.022424500 admin performed user transactions request
+2021-09-10 22:21:00.024418500 admin user transactions request successful
+2021-09-10 22:21:00.024418500 admin performed crypto stats request
+2021-09-10 22:21:00.026413400 admin crypto stats request successfull
+2021-09-10 22:21:35.459172100 admin performed send request
+2021-09-10 22:21:54.193459500 admin performed send request
+2021-09-10 22:21:54.235345700 admin send request successful
+2021-09-10 22:22:30.463242900 admin performed send request
+2021-09-10 22:22:30.506126500 admin send request successful
+2021-09-10 22:23:11.152652700 bitcoinmaxi Logged out.
+2021-09-10 22:23:13.267695900 admin Logged out.
+2021-09-10 22:26:07.477997700 etherwinner Logged in.
+2021-09-10 22:26:07.679428200 etherwinner performed balance request
+2021-09-10 22:26:07.680425900 etherwinner balance request successful
+2021-09-10 22:26:07.680425900 etherwinner performed amount owned request
+2021-09-10 22:26:07.681422300 etherwinner amount owned request successful
+2021-09-10 22:26:07.681422300 etherwinner performed user transactions request
+2021-09-10 22:26:07.684414700 etherwinner user transactions request successful
+2021-09-10 22:26:07.684414700 etherwinner performed crypto stats request
+2021-09-10 22:26:07.685411200 etherwinner crypto stats request successfull
+2021-09-10 22:26:27.685247600 bitcoinmaxi Logged in.
+2021-09-10 22:26:27.834849300 bitcoinmaxi performed balance request
+2021-09-10 22:26:27.835846 bitcoinmaxi balance request successful
+2021-09-10 22:26:27.835846 bitcoinmaxi performed amount owned request
+2021-09-10 22:26:27.836843100 bitcoinmaxi amount owned request successful
+2021-09-10 22:26:27.836843100 bitcoinmaxi performed user transactions request
+2021-09-10 22:26:27.837840600 bitcoinmaxi user transactions request successful
+2021-09-10 22:26:27.837840600 bitcoinmaxi performed crypto stats request
+2021-09-10 22:26:27.838837900 bitcoinmaxi crypto stats request successfull
+2021-09-10 22:27:05.301845300 etherwinner performed send request
+2021-09-10 22:27:05.328771800 etherwinner send request successful
+2021-09-10 22:27:44.357201500 bitcoinmaxi performed send request
+2021-09-10 22:27:44.378144700 bitcoinmaxi send request successful
+2021-09-10 22:28:29.828066800 bitcoinmaxi Logged out.
+2021-09-10 22:28:32.728055 etherwinner Logged out.
+2021-09-10 22:29:53.446624300 admin Logged in.
+2021-09-10 22:29:53.639084400 admin performed balance request
+2021-09-10 22:29:53.639084400 admin balance request successful
+2021-09-10 22:29:53.639084400 admin performed amount owned request
+2021-09-10 22:29:53.640081400 admin amount owned request successful
+2021-09-10 22:29:53.640081400 admin performed user transactions request
+2021-09-10 22:29:53.642076100 admin user transactions request successful
+2021-09-10 22:29:53.642076100 admin performed crypto stats request
+2021-09-10 22:29:53.643074 admin crypto stats request successfull
+2021-09-10 22:30:02.344389500 pierobassa Logged in.
+2021-09-10 22:30:02.488606 pierobassa performed balance request
+2021-09-10 22:30:02.489603300 pierobassa balance request successful
+2021-09-10 22:30:02.489603300 pierobassa performed amount owned request
+2021-09-10 22:30:02.490600800 pierobassa amount owned request successful
+2021-09-10 22:30:02.490600800 pierobassa performed user transactions request
+2021-09-10 22:30:02.492595600 pierobassa user transactions request successful
+2021-09-10 22:30:02.493592800 pierobassa performed crypto stats request
+2021-09-10 22:30:02.495587800 pierobassa crypto stats request successfull
+2021-09-10 22:30:20.394697100 admin performed send request
+2021-09-10 22:30:20.499422200 admin send request successful
+2021-09-10 22:30:41.017028400 admin Logged out.
+2021-09-10 22:30:42.185286600 pierobassa Logged out.
+2021-09-10 22:30:53.965726400 pierobassa Logged in.
+2021-09-10 22:30:54.100876100 pierobassa performed balance request
+2021-09-10 22:30:54.100876100 pierobassa balance request successful
+2021-09-10 22:30:54.100876100 pierobassa performed amount owned request
+2021-09-10 22:30:54.102870600 pierobassa amount owned request successful
+2021-09-10 22:30:54.102870600 pierobassa performed user transactions request
+2021-09-10 22:30:54.108855200 pierobassa user transactions request successful
+2021-09-10 22:30:54.108855200 pierobassa performed crypto stats request
+2021-09-10 22:30:54.110849400 pierobassa crypto stats request successfull
+2021-09-10 22:31:04.070154800 admin Logged in.
+2021-09-10 22:31:04.216738800 admin performed balance request
+2021-09-10 22:31:04.216738800 admin balance request successful
+2021-09-10 22:31:04.216738800 admin performed amount owned request
+2021-09-10 22:31:04.217736200 admin amount owned request successful
+2021-09-10 22:31:04.217736200 admin performed user transactions request
+2021-09-10 22:31:04.218733900 admin user transactions request successful
+2021-09-10 22:31:04.218733900 admin performed crypto stats request
+2021-09-10 22:31:04.219731400 admin crypto stats request successfull
+2021-09-10 22:31:16.694217200 pierobassa performed send request
+2021-09-10 22:31:16.738099500 pierobassa send request successful
+2021-09-10 22:31:49.326408100 admin Logged out.
+2021-09-10 22:31:53.506894800 pierobassa Logged out.
+2021-09-10 22:40:55.822166100 admin Logged in.
+2021-09-10 22:40:55.963031800 admin performed balance request
+2021-09-10 22:40:55.964028900 admin balance request successful
+2021-09-10 22:40:55.964028900 admin performed amount owned request
+2021-09-10 22:40:55.965026600 admin amount owned request successful
+2021-09-10 22:40:55.965026600 admin performed user transactions request
+2021-09-10 22:40:55.966023800 admin user transactions request successful
+2021-09-10 22:40:55.966023800 admin performed crypto stats request
+2021-09-10 22:40:55.967021100 admin crypto stats request successfull
+2021-09-10 22:41:21.802088600 admin Logged out.
+2021-09-10 22:41:34.697224100 admin Logged in.
+2021-09-10 22:41:34.847335500 admin performed balance request
+2021-09-10 22:41:34.848331900 admin balance request successful
+2021-09-10 22:41:34.848331900 admin performed amount owned request
+2021-09-10 22:41:34.849329300 admin amount owned request successful
+2021-09-10 22:41:34.849329300 admin performed user transactions request
+2021-09-10 22:41:34.850327200 admin user transactions request successful
+2021-09-10 22:41:34.850327200 admin performed crypto stats request
+2021-09-10 22:41:34.851323800 admin crypto stats request successfull
+2021-09-10 22:41:49.554614900 admin Logged out.
+2021-09-11 15:39:49.588496900 admin Logged in.
+2021-09-11 15:39:49.740091600 admin performed balance request
+2021-09-11 15:39:49.744082 admin balance request successful
+2021-09-11 15:39:49.744082 admin performed amount owned request
+2021-09-11 15:39:49.748071400 admin amount owned request successful
+2021-09-11 15:39:49.748071400 admin performed user transactions request
+2021-09-11 15:39:49.756049 admin user transactions request successful
+2021-09-11 15:39:49.756049 admin performed crypto stats request
+2021-09-11 15:39:49.758043100 admin crypto stats request successfull
+2021-09-11 15:40:16.266801300 admin Logged out.
+2021-09-11 22:56:02.252578 admin Logged in.
+2021-09-11 22:56:02.414146700 admin performed balance request
+2021-09-11 22:56:02.416141200 admin balance request successful
+2021-09-11 22:56:02.416141200 admin performed amount owned request
+2021-09-11 22:56:02.423122800 admin amount owned request successful
+2021-09-11 22:56:02.423122800 admin performed user transactions request
+2021-09-11 22:56:02.432098300 admin user transactions request successful
+2021-09-11 22:56:02.432098300 admin performed crypto stats request
+2021-09-11 22:56:02.442071700 admin crypto stats request successfull
+2021-09-11 22:56:15.975747500 admin Logged out.
+2021-09-11 22:56:40.248458400 admin Logged in.
+2021-09-11 22:56:40.402727900 admin performed balance request
+2021-09-11 22:56:40.403724700 admin balance request successful
+2021-09-11 22:56:40.403724700 admin performed amount owned request
+2021-09-11 22:56:40.404723700 admin amount owned request successful
+2021-09-11 22:56:40.404723700 admin performed user transactions request
+2021-09-11 22:56:40.406717500 admin user transactions request successful
+2021-09-11 22:56:40.407714900 admin performed crypto stats request
+2021-09-11 22:56:40.409708400 admin crypto stats request successfull
+2021-09-11 22:56:56.599318700 admin Logged out.
+2021-09-11 22:58:07.618939500 admin Logged in.
+2021-09-11 22:58:07.763276500 admin performed balance request
+2021-09-11 22:58:07.764274300 admin balance request successful
+2021-09-11 22:58:07.765271400 admin performed amount owned request
+2021-09-11 22:58:07.766269 admin amount owned request successful
+2021-09-11 22:58:07.766269 admin performed user transactions request
+2021-09-11 22:58:07.772252600 admin user transactions request successful
+2021-09-11 22:58:07.774247300 admin performed crypto stats request
+2021-09-11 22:58:07.778236600 admin crypto stats request successfull
+2021-09-11 22:58:26.548076200 admin Logged out.
+2021-09-11 22:59:57.344497400 admin Logged in.
+2021-09-11 22:59:57.489080200 admin performed balance request
+2021-09-11 22:59:57.490078 admin balance request successful
+2021-09-11 22:59:57.490078 admin performed amount owned request
+2021-09-11 22:59:57.491075200 admin amount owned request successful
+2021-09-11 22:59:57.495064200 admin performed user transactions request
+2021-09-11 22:59:57.498056100 admin user transactions request successful
+2021-09-11 22:59:57.498056100 admin performed crypto stats request
+2021-09-11 22:59:57.501047500 admin crypto stats request successfull
+2021-09-11 23:02:46.762852300 admin Logged out.
+2021-09-11 23:03:35.238998700 admin Logged in.
+2021-09-11 23:03:35.384610700 admin performed balance request
+2021-09-11 23:03:35.384610700 admin balance request successful
+2021-09-11 23:03:35.384610700 admin performed amount owned request
+2021-09-11 23:03:35.386605600 admin amount owned request successful
+2021-09-11 23:03:35.386605600 admin performed user transactions request
+2021-09-11 23:03:35.391591900 admin user transactions request successful
+2021-09-11 23:03:35.392589500 admin performed crypto stats request
+2021-09-11 23:03:35.395580800 admin crypto stats request successfull
+2021-09-11 23:03:50.579900400 admin Logged out.
+2021-09-11 23:04:20.575125200 admin Logged in.
+2021-09-11 23:04:20.714476 admin performed balance request
+2021-09-11 23:04:20.715472400 admin balance request successful
+2021-09-11 23:04:20.715472400 admin performed amount owned request
+2021-09-11 23:04:20.718464800 admin amount owned request successful
+2021-09-11 23:04:20.719461800 admin performed user transactions request
+2021-09-11 23:04:20.723451300 admin user transactions request successful
+2021-09-11 23:04:20.724448500 admin performed crypto stats request
+2021-09-11 23:04:20.725445900 admin crypto stats request successfull
+2021-09-11 23:05:53.628728700 admin Logged out.
+2021-09-11 23:08:22.319349200 admin Logged in.
+2021-09-11 23:08:22.519813900 admin performed balance request
+2021-09-11 23:08:22.519813900 admin balance request successful
+2021-09-11 23:08:22.519813900 admin performed amount owned request
+2021-09-11 23:08:22.520810900 admin amount owned request successful
+2021-09-11 23:08:22.520810900 admin performed user transactions request
+2021-09-11 23:08:22.523803 admin user transactions request successful
+2021-09-11 23:08:22.524799900 admin performed crypto stats request
+2021-09-11 23:08:22.626528300 admin crypto stats request successfull
+2021-09-11 23:08:51.243319100 admin Logged out.
+2021-09-11 23:11:04.020250500 admin Logged in.
+2021-09-11 23:11:04.158866600 admin performed balance request
+2021-09-11 23:11:04.159863400 admin balance request successful
+2021-09-11 23:11:04.160861300 admin performed amount owned request
+2021-09-11 23:11:04.162855200 admin amount owned request successful
+2021-09-11 23:11:04.162855200 admin performed user transactions request
+2021-09-11 23:11:04.163852900 admin user transactions request successful
+2021-09-11 23:11:04.163852900 admin performed crypto stats request
+2021-09-11 23:11:04.164849600 admin crypto stats request successfull
+2021-09-11 23:11:24.714435600 admin Logged out.
+2021-09-11 23:11:47.572659800 admin Logged in.
+2021-09-11 23:11:47.969704300 admin performed balance request
+2021-09-11 23:11:47.979675800 admin balance request successful
+2021-09-11 23:11:47.980673800 admin performed amount owned request
+2021-09-11 23:11:47.986656800 admin amount owned request successful
+2021-09-11 23:11:47.986656800 admin performed user transactions request
+2021-09-11 23:11:47.993638100 admin user transactions request successful
+2021-09-11 23:11:47.993638100 admin performed crypto stats request
+2021-09-11 23:11:48.013585100 admin crypto stats request successfull
+2021-09-11 23:12:07.990226800 admin Logged out.
+2021-09-11 23:13:39.979116200 admin Logged in.
+2021-09-11 23:13:40.153649600 admin performed balance request
+2021-09-11 23:13:40.153649600 admin balance request successful
+2021-09-11 23:13:40.153649600 admin performed amount owned request
+2021-09-11 23:13:40.154646700 admin amount owned request successful
+2021-09-11 23:13:40.154646700 admin performed user transactions request
+2021-09-11 23:13:40.155644200 admin user transactions request successful
+2021-09-11 23:13:40.155644200 admin performed crypto stats request
+2021-09-11 23:13:40.156641900 admin crypto stats request successfull
+2021-09-11 23:13:55.231060100 admin Logged out.
+2021-09-11 23:15:40.244479200 admin Logged in.
+2021-09-11 23:15:40.406048300 admin performed balance request
+2021-09-11 23:15:40.406048300 admin balance request successful
+2021-09-11 23:15:40.406048300 admin performed amount owned request
+2021-09-11 23:15:40.407045100 admin amount owned request successful
+2021-09-11 23:15:40.408042800 admin performed user transactions request
+2021-09-11 23:15:40.409040100 admin user transactions request successful
+2021-09-11 23:15:40.409040100 admin performed crypto stats request
+2021-09-11 23:15:40.410037400 admin crypto stats request successfull
+2021-09-11 23:15:54.705294200 admin Logged out.
+2021-09-11 23:16:19.032860700 admin Logged in.
+2021-09-11 23:16:19.174481900 admin performed balance request
+2021-09-11 23:16:19.175479800 admin balance request successful
+2021-09-11 23:16:19.175479800 admin performed amount owned request
+2021-09-11 23:16:19.176477100 admin amount owned request successful
+2021-09-11 23:16:19.177473700 admin performed user transactions request
+2021-09-11 23:16:19.178470800 admin user transactions request successful
+2021-09-11 23:16:19.178470800 admin performed crypto stats request
+2021-09-11 23:16:19.179468200 admin crypto stats request successfull
+2021-09-11 23:16:56.254257400 admin Logged out.
+2021-09-11 23:18:08.537419900 admin Logged in.
+2021-09-11 23:18:08.705949700 admin performed balance request
+2021-09-11 23:18:08.706947200 admin balance request successful
+2021-09-11 23:18:08.706947200 admin performed amount owned request
+2021-09-11 23:18:08.707944100 admin amount owned request successful
+2021-09-11 23:18:08.707944100 admin performed user transactions request
+2021-09-11 23:18:08.710936 admin user transactions request successful
+2021-09-11 23:18:08.710936 admin performed crypto stats request
+2021-09-11 23:18:08.710936 admin crypto stats request successfull
+2021-09-11 23:18:53.446604500 admin Logged out.
+2021-09-11 23:20:12.196332700 admin Logged in.
+2021-09-11 23:20:12.348859100 admin performed balance request
+2021-09-11 23:20:12.348859100 admin balance request successful
+2021-09-11 23:20:12.348859100 admin performed amount owned request
+2021-09-11 23:20:12.350853700 admin amount owned request successful
+2021-09-11 23:20:12.350853700 admin performed user transactions request
+2021-09-11 23:20:12.357836900 admin user transactions request successful
+2021-09-11 23:20:12.357836900 admin performed crypto stats request
+2021-09-11 23:20:12.358833200 admin crypto stats request successfull
+2021-09-11 23:20:21.641733700 admin performed transaction request
+2021-09-11 23:20:21.719526100 admin transaction request successful.
+2021-09-11 23:21:24.784969 admin Logged out.
+2021-09-11 23:22:04.391996400 admin Logged in.
+2021-09-11 23:22:04.566579800 admin performed balance request
+2021-09-11 23:22:04.571565900 admin balance request successful
+2021-09-11 23:22:04.577549600 admin performed amount owned request
+2021-09-11 23:22:04.578547200 admin amount owned request successful
+2021-09-11 23:22:04.578547200 admin performed user transactions request
+2021-09-11 23:22:04.587522300 admin user transactions request successful
+2021-09-11 23:22:04.587522300 admin performed crypto stats request
+2021-09-11 23:22:04.588520300 admin crypto stats request successfull
+2021-09-11 23:23:11.893516400 admin Logged out.
+2021-09-11 23:24:33.146066200 admin Logged in.
+2021-09-11 23:24:33.296894700 admin performed balance request
+2021-09-11 23:24:33.298891400 admin balance request successful
+2021-09-11 23:24:33.298891400 admin performed amount owned request
+2021-09-11 23:24:33.309371200 admin amount owned request successful
+2021-09-11 23:24:33.309371200 admin performed user transactions request
+2021-09-11 23:24:33.318347600 admin user transactions request successful
+2021-09-11 23:24:33.318347600 admin performed crypto stats request
+2021-09-11 23:24:33.319345100 admin crypto stats request successfull
+2021-09-11 23:26:24.116409700 admin Logged out.
+2021-09-12 14:51:42.230630700 admin Logged in.
+2021-09-12 14:51:42.644989900 admin performed balance request
+2021-09-12 14:51:42.708368300 admin balance request successful
+2021-09-12 14:51:42.709366500 admin performed amount owned request
+2021-09-12 14:51:42.723329400 admin amount owned request successful
+2021-09-12 14:51:42.729316800 admin performed user transactions request
+2021-09-12 14:51:42.754246100 admin user transactions request successful
+2021-09-12 14:51:42.754246100 admin performed crypto stats request
+2021-09-12 14:51:42.758235300 admin crypto stats request successfull
+2021-09-12 14:51:44.756750 admin Logged out.
+2021-09-12 14:51:57.260004700 admin Logged in.
+2021-09-12 14:51:57.349278100 admin performed balance request
+2021-09-12 14:51:57.350275700 admin balance request successful
+2021-09-12 14:51:57.354264600 admin performed amount owned request
+2021-09-12 14:51:57.358253800 admin amount owned request successful
+2021-09-12 14:51:57.358253800 admin performed user transactions request
+2021-09-12 14:51:57.362243800 admin user transactions request successful
+2021-09-12 14:51:57.362243800 admin performed crypto stats request
+2021-09-12 14:51:57.364238 admin crypto stats request successfull
+2021-09-12 14:51:58.249945600 admin Logged out.
+2021-09-12 14:52:09.490103300 admin Logged in.
+2021-09-12 14:52:09.623971100 admin performed balance request
+2021-09-12 14:52:09.624965700 admin balance request successful
+2021-09-12 14:52:09.625963100 admin performed amount owned request
+2021-09-12 14:52:09.626959400 admin amount owned request successful
+2021-09-12 14:52:09.626959400 admin performed user transactions request
+2021-09-12 14:52:09.628954600 admin user transactions request successful
+2021-09-12 14:52:09.628954600 admin performed crypto stats request
+2021-09-12 14:52:09.630995500 admin crypto stats request successfull
+2021-09-12 14:52:10.465975 admin Logged out.
+2021-09-12 14:52:28.159944 admin Logged in.
+2021-09-12 14:52:28.326500300 admin performed balance request
+2021-09-12 14:52:28.327494700 admin balance request successful
+2021-09-12 14:52:28.327494700 admin performed amount owned request
+2021-09-12 14:52:28.328493800 admin amount owned request successful
+2021-09-12 14:52:28.328493800 admin performed user transactions request
+2021-09-12 14:52:28.331483800 admin user transactions request successful
+2021-09-12 14:52:28.331483800 admin performed crypto stats request
+2021-09-12 14:52:28.332481700 admin crypto stats request successfull
+2021-09-12 14:52:30.705766800 admin Logged out.
+2021-09-12 14:53:05.884225600 admin Logged in.
+2021-09-12 14:53:06.242425600 admin performed balance request
+2021-09-12 14:53:06.243423500 admin balance request successful
+2021-09-12 14:53:06.243423500 admin performed amount owned request
+2021-09-12 14:53:06.245420400 admin amount owned request successful
+2021-09-12 14:53:06.245420400 admin performed user transactions request
+2021-09-12 14:53:06.247413600 admin user transactions request successful
+2021-09-12 14:53:06.247413600 admin performed crypto stats request
+2021-09-12 14:53:06.249407500 admin crypto stats request successfull
+2021-09-12 14:53:09.373009700 admin Logged out.
+2021-09-12 14:55:07.326813300 admin Logged in.
+2021-09-12 14:55:07.499863600 admin performed balance request
+2021-09-12 14:55:07.502855600 admin balance request successful
+2021-09-12 14:55:07.502855600 admin performed amount owned request
+2021-09-12 14:55:07.504849700 admin amount owned request successful
+2021-09-12 14:55:07.504849700 admin performed user transactions request
+2021-09-12 14:55:07.509836600 admin user transactions request successful
+2021-09-12 14:55:07.509836600 admin performed crypto stats request
+2021-09-12 14:55:07.513826 admin crypto stats request successfull
+2021-09-12 14:56:06.793566 admin Logged out.
+2021-09-12 19:07:34.511972600 admin Logged in.
+2021-09-12 19:07:34.677551300 admin performed balance request
+2021-09-12 19:07:34.682538800 admin balance request successful
+2021-09-12 19:07:34.683542500 admin performed amount owned request
+2021-09-12 19:07:34.687525400 admin amount owned request successful
+2021-09-12 19:07:34.688521800 admin performed user transactions request
+2021-09-12 19:07:34.695503200 admin user transactions request successful
+2021-09-12 19:07:34.695503200 admin performed crypto stats request
+2021-09-12 19:07:34.699492600 admin crypto stats request successfull
+2021-09-12 19:07:54.893281400 admin performed transaction request
+2021-09-12 19:07:54.976059600 admin transaction request successful.
+2021-09-12 19:08:04.898439800 admin performed transaction request
+2021-09-12 19:08:04.953293600 admin transaction request successful.
+2021-09-12 19:08:12.346678400 admin performed transaction request
+2021-09-12 19:08:12.389563700 admin transaction request successful.
+2021-09-12 19:08:21.179095900 admin performed transaction request
+2021-09-12 19:08:21.206023700 admin transaction request successful.
+2021-09-12 19:09:06.512355700 admin performed transaction request
+2021-09-12 19:09:06.565216700 admin transaction request successful.
+2021-09-12 19:09:18.598269600 admin performed transaction request
+2021-09-12 19:09:18.634173500 admin transaction request successful.
+2021-09-12 19:09:43.017294900 admin performed transaction request
+2021-09-12 19:09:43.051203500 admin transaction request successful.
+2021-09-12 19:09:47.756369200 admin performed transaction request
+2021-09-12 19:09:47.795266500 admin transaction request successful.
+2021-09-12 19:09:55.881588300 admin performed transaction request
+2021-09-12 19:09:55.919487200 admin transaction request successful.
+2021-09-12 19:10:01.835830800 admin performed transaction request
+2021-09-12 19:10:01.865751400 admin transaction request successful.
+2021-09-12 19:22:17.343717500 admin Logged out.
+2021-09-12 22:08:59.165664400 admin Logged in.
+2021-09-12 22:08:59.360186 admin performed balance request
+2021-09-12 22:08:59.362181400 admin balance request successful
+2021-09-12 22:08:59.363178700 admin performed amount owned request
+2021-09-12 22:08:59.369182500 admin amount owned request successful
+2021-09-12 22:08:59.369182500 admin performed user transactions request
+2021-09-12 22:08:59.374690300 admin user transactions request successful
+2021-09-12 22:08:59.375674300 admin performed crypto stats request
+2021-09-12 22:08:59.379179900 admin crypto stats request successfull
+2021-09-12 22:09:37.765483800 admin Logged out.
+2021-09-12 22:10:54.154898200 admin Logged in.
+2021-09-12 22:10:54.329942100 admin performed balance request
+2021-09-12 22:10:54.329942100 admin balance request successful
+2021-09-12 22:10:54.329942100 admin performed amount owned request
+2021-09-12 22:10:54.333931 admin amount owned request successful
+2021-09-12 22:10:54.334928200 admin performed user transactions request
+2021-09-12 22:10:54.341420100 admin user transactions request successful
+2021-09-12 22:10:54.341420100 admin performed crypto stats request
+2021-09-12 22:10:54.418215700 admin crypto stats request successfull
+2021-09-12 22:11:09.098266800 admin Logged out.
+2021-09-12 22:12:03.030931900 admin Logged in.
+2021-09-12 22:12:03.189509500 admin performed balance request
+2021-09-12 22:12:03.189509500 admin balance request successful
+2021-09-12 22:12:03.189509500 admin performed amount owned request
+2021-09-12 22:12:03.191504300 admin amount owned request successful
+2021-09-12 22:12:03.191504300 admin performed user transactions request
+2021-09-12 22:12:03.199483200 admin user transactions request successful
+2021-09-12 22:12:03.199483200 admin performed crypto stats request
+2021-09-12 22:12:03.201476900 admin crypto stats request successfull
+2021-09-12 22:12:20.034546 admin Logged out.
+2021-09-12 22:12:50.792395200 admin Logged in.
+2021-09-12 22:12:50.940511400 admin performed balance request
+2021-09-12 22:12:50.940511400 admin balance request successful
+2021-09-12 22:12:50.941508600 admin performed amount owned request
+2021-09-12 22:12:50.941508600 admin amount owned request successful
+2021-09-12 22:12:50.942506100 admin performed user transactions request
+2021-09-12 22:12:50.946495200 admin user transactions request successful
+2021-09-12 22:12:50.946495200 admin performed crypto stats request
+2021-09-12 22:12:50.947492500 admin crypto stats request successfull
+2021-09-12 22:13:52.597385800 admin Logged out.
+2021-09-12 22:31:41.155139700 admin Logged in.
+2021-09-12 22:31:41.333698300 admin performed balance request
+2021-09-12 22:31:41.338684700 admin balance request successful
+2021-09-12 22:31:41.339682300 admin performed amount owned request
+2021-09-12 22:31:41.346663300 admin amount owned request successful
+2021-09-12 22:31:41.347660900 admin performed user transactions request
+2021-09-12 22:31:41.457413900 admin user transactions request successful
+2021-09-12 22:31:41.457413900 admin performed crypto stats request
+2021-09-12 22:31:41.462400200 admin crypto stats request successfull
+2021-09-12 22:32:02.254286200 admin performed transaction request
+2021-09-12 22:32:02.311132700 admin transaction request successful.
+2021-09-12 22:32:57.110693100 admin performed transaction request
+2021-09-12 22:32:57.161558 admin transaction request successful.
+2021-09-12 22:33:14.321277500 admin performed transaction request
+2021-09-12 22:33:14.382115500 admin transaction request successful.
+2021-09-12 22:33:42.029433 admin Logged out.
+2021-09-12 22:45:15.124248400 test signed up.
+2021-09-12 22:45:19.753127200 test Logged in.
+2021-09-12 22:45:19.901730900 test performed balance request
+2021-09-12 22:45:19.903726400 test balance request successful
+2021-09-12 22:45:19.903726400 test performed amount owned request
+2021-09-12 22:45:19.904723300 test amount owned request successful
+2021-09-12 22:45:19.904723300 test performed user transactions request
+2021-09-12 22:45:19.906718300 test user transactions request successful
+2021-09-12 22:45:19.906718300 test performed crypto stats request
+2021-09-12 22:45:19.907715200 test crypto stats request successfull
+2021-09-12 22:46:00.377701200 test Logged out.
+2021-09-12 22:47:10.383121100 test Logged in.
+2021-09-12 22:47:10.547810 test performed balance request
+2021-09-12 22:47:10.548807300 test balance request successful
+2021-09-12 22:47:10.548807300 test performed amount owned request
+2021-09-12 22:47:10.549806700 test amount owned request successful
+2021-09-12 22:47:10.549806700 test performed user transactions request
+2021-09-12 22:47:10.550802300 test user transactions request successful
+2021-09-12 22:47:10.551798900 test performed crypto stats request
+2021-09-12 22:47:10.552797100 test crypto stats request successfull
+2021-09-12 22:48:24.362703800 test Logged out.
+2021-09-15 14:35:33.883025900 admin Logged in.
+2021-09-15 14:35:34.115404400 admin performed balance request
+2021-09-15 14:35:34.123383100 admin balance request successful
+2021-09-15 14:35:34.124380400 admin performed amount owned request
+2021-09-15 14:35:34.129367 admin amount owned request successful
+2021-09-15 14:35:34.130364600 admin performed user transactions request
+2021-09-15 14:35:34.143329700 admin user transactions request successful
+2021-09-15 14:35:34.143329700 admin performed crypto stats request
+2021-09-15 14:35:34.146321700 admin crypto stats request successfull
+2021-09-15 14:36:22.309116200 admin Logged out.
+2021-09-15 14:36:52.962419800 admin Logged in.
+2021-09-15 14:36:53.109997500 admin performed balance request
+2021-09-15 14:36:53.110993900 admin balance request successful
+2021-09-15 14:36:53.110993900 admin performed amount owned request
+2021-09-15 14:36:53.112987600 admin amount owned request successful
+2021-09-15 14:36:53.112987600 admin performed user transactions request
+2021-09-15 14:36:53.115980300 admin user transactions request successful
+2021-09-15 14:36:53.116977700 admin performed crypto stats request
+2021-09-15 14:36:53.117975100 admin crypto stats request successfull
+2021-09-15 14:41:13.567655 admin Logged out.
+2021-09-15 14:41:25.723747600 admin Logged in.
+2021-09-15 14:41:25.883323 admin performed balance request
+2021-09-15 14:41:25.884320200 admin balance request successful
+2021-09-15 14:41:25.884320200 admin performed amount owned request
+2021-09-15 14:41:25.885317400 admin amount owned request successful
+2021-09-15 14:41:25.885317400 admin performed user transactions request
+2021-09-15 14:41:25.891304100 admin user transactions request successful
+2021-09-15 14:41:25.892298100 admin performed crypto stats request
+2021-09-15 14:41:25.895290100 admin crypto stats request successfull
+2021-09-15 14:42:11.130413900 admin Logged out.
+2021-09-15 15:08:45.325765300 admin Logged in.
+2021-09-15 15:08:45.553203 admin performed balance request
+2021-09-15 15:08:45.553203 admin balance request successful
+2021-09-15 15:08:45.553203 admin performed amount owned request
+2021-09-15 15:08:45.554201300 admin amount owned request successful
+2021-09-15 15:08:45.555197900 admin performed user transactions request
+2021-09-15 15:08:45.557715200 admin user transactions request successful
+2021-09-15 15:08:45.558240 admin performed crypto stats request
+2021-09-15 15:08:45.559219500 admin crypto stats request successfull
+2021-09-15 15:09:38.826982800 admin Logged out.
+2021-09-15 15:45:10.581146800 admin Logged in.
+2021-09-15 15:45:10.747701700 admin performed balance request
+2021-09-15 15:45:10.773633500 admin balance request successful
+2021-09-15 15:45:10.773633500 admin performed amount owned request
+2021-09-15 15:45:10.776625400 admin amount owned request successful
+2021-09-15 15:45:10.776625400 admin performed user transactions request
+2021-09-15 15:45:10.785600200 admin user transactions request successful
+2021-09-15 15:45:10.785600200 admin performed crypto stats request
+2021-09-15 15:45:10.789590200 admin crypto stats request successfull
+2021-09-15 15:46:25.070163 admin Logged out.
+2021-09-15 15:55:10.070612700 admin Logged in.
+2021-09-15 15:55:10.226198500 admin performed balance request
+2021-09-15 15:55:10.227196 admin balance request successful
+2021-09-15 15:55:10.227196 admin performed amount owned request
+2021-09-15 15:55:10.228192500 admin amount owned request successful
+2021-09-15 15:55:10.229189600 admin performed user transactions request
+2021-09-15 15:55:10.231184600 admin user transactions request successful
+2021-09-15 15:55:10.232182100 admin performed crypto stats request
+2021-09-15 15:55:10.233179600 admin crypto stats request successfull
+2021-09-15 16:17:26.226273300 admin Logged out.
+2021-09-15 16:28:31.854810300 admin Logged in.
+2021-09-15 16:28:32.036837500 admin performed balance request
+2021-09-15 16:28:32.038831800 admin balance request successful
+2021-09-15 16:28:32.038831800 admin performed amount owned request
+2021-09-15 16:28:32.041824300 admin amount owned request successful
+2021-09-15 16:28:32.041824300 admin performed user transactions request
+2021-09-15 16:28:32.046810300 admin user transactions request successful
+2021-09-15 16:28:32.047807600 admin performed crypto stats request
+2021-09-15 16:28:32.053791800 admin crypto stats request successfull
+2021-09-15 16:36:28.792394100 admin Logged out.
+2021-09-15 16:44:05.764293 admin Logged in.
+2021-09-15 16:44:05.917998100 admin performed balance request
+2021-09-15 16:44:05.918995300 admin balance request successful
+2021-09-15 16:44:05.918995300 admin performed amount owned request
+2021-09-15 16:44:05.924978400 admin amount owned request successful
+2021-09-15 16:44:05.924978400 admin performed user transactions request
+2021-09-15 16:44:05.935949500 admin user transactions request successful
+2021-09-15 16:44:05.935949500 admin performed crypto stats request
+2021-09-15 16:44:05.937943900 admin crypto stats request successfull
+2021-09-15 17:26:40.114130800 admin Logged out.
+2021-09-15 18:41:28.769978900 superbear Logged in.
+2021-09-15 18:41:28.951486700 superbear performed balance request
+2021-09-15 18:41:28.952483900 superbear balance request successful
+2021-09-15 18:41:28.952483900 superbear performed amount owned request
+2021-09-15 18:41:28.954479 superbear amount owned request successful
+2021-09-15 18:41:28.954479 superbear performed user transactions request
+2021-09-15 18:41:28.962457400 superbear user transactions request successful
+2021-09-15 18:41:28.963456500 superbear performed crypto stats request
+2021-09-15 18:41:28.966446700 superbear crypto stats request successfull
+2021-09-15 18:43:57.842036600 superbear Logged out.
+2021-09-15 22:10:55.828355800 admin Logged in.
+2021-09-15 22:10:55.991912100 admin performed balance request
+2021-09-15 22:10:55.992910100 admin balance request successful
+2021-09-15 22:10:55.992910100 admin performed amount owned request
+2021-09-15 22:10:55.996899200 admin amount owned request successful
+2021-09-15 22:10:55.999891200 admin performed user transactions request
+2021-09-15 22:10:56.006872 admin user transactions request successful
+2021-09-15 22:10:56.006872 admin performed crypto stats request
+2021-09-15 22:10:56.009864400 admin crypto stats request successfull
+2021-09-15 22:11:41.236305700 admin Logged out.
+2021-09-16 14:40:39.710290600 admin Logged in.
+2021-09-16 14:40:39.887816600 admin performed balance request
+2021-09-16 14:40:39.891805600 admin balance request successful
+2021-09-16 14:40:39.891805600 admin performed amount owned request
+2021-09-16 14:40:39.894798500 admin amount owned request successful
+2021-09-16 14:40:39.894798500 admin performed user transactions request
+2021-09-16 14:40:39.902776300 admin user transactions request successful
+2021-09-16 14:40:39.902776300 admin performed crypto stats request
+2021-09-16 14:40:39.905768 admin crypto stats request successfull
+2021-09-16 14:40:56.882425200 bitcoinmaxi Logged in.
+2021-09-16 14:40:57.035018100 bitcoinmaxi performed balance request
+2021-09-16 14:40:57.036016300 bitcoinmaxi balance request successful
+2021-09-16 14:40:57.036016300 bitcoinmaxi performed amount owned request
+2021-09-16 14:40:57.038010300 bitcoinmaxi amount owned request successful
+2021-09-16 14:40:57.038010300 bitcoinmaxi performed user transactions request
+2021-09-16 14:40:57.041999800 bitcoinmaxi user transactions request successful
+2021-09-16 14:40:57.041999800 bitcoinmaxi performed crypto stats request
+2021-09-16 14:40:57.042997200 bitcoinmaxi crypto stats request successfull
+2021-09-16 14:41:01.939448700 admin Logged out.
+2021-09-16 14:41:17.111876400 bitcoinmaxi Logged out.
+2021-09-16 14:45:56.864716100 admin Logged in.
+2021-09-16 14:45:56.929544600 admin Logged out.
+2021-09-16 14:46:02.519260700 admin Logged in.
+2021-09-16 14:46:02.679832100 admin performed balance request
+2021-09-16 14:46:02.683821200 admin balance request successful
+2021-09-16 14:46:02.684819400 admin performed amount owned request
+2021-09-16 14:46:02.687812400 admin amount owned request successful
+2021-09-16 14:46:02.687812400 admin performed user transactions request
+2021-09-16 14:46:02.696785600 admin user transactions request successful
+2021-09-16 14:46:02.696785600 admin performed crypto stats request
+2021-09-16 14:46:02.700775800 admin crypto stats request successfull
+2021-09-16 14:46:12.883499300 admin Logged out.
+2021-09-16 14:46:45.890129700 admin Logged in.
+2021-09-16 14:46:45.967910100 admin performed balance request
+2021-09-16 14:46:45.967910100 admin balance request successful
+2021-09-16 14:46:45.968907300 admin performed amount owned request
+2021-09-16 14:46:45.969905200 admin amount owned request successful
+2021-09-16 14:46:45.970902 admin performed user transactions request
+2021-09-16 14:46:45.973894200 admin user transactions request successful
+2021-09-16 14:46:45.973894200 admin performed crypto stats request
+2021-09-16 14:46:45.975889200 admin crypto stats request successfull
+2021-09-16 14:46:55.998757 admin Logged out.
+2021-09-16 14:47:08.558582900 admin Logged in.
+2021-09-16 14:47:08.620417500 admin performed balance request
+2021-09-16 14:47:08.621415 admin balance request successful
+2021-09-16 14:47:08.621415 admin performed amount owned request
+2021-09-16 14:47:08.622412100 admin amount owned request successful
+2021-09-16 14:47:08.622412100 admin performed user transactions request
+2021-09-16 14:47:08.625403700 admin user transactions request successful
+2021-09-16 14:47:08.625403700 admin performed crypto stats request
+2021-09-16 14:47:08.626401100 admin crypto stats request successfull
+2021-09-16 14:47:38.026578900 bitcoinmaxi Logged in.
+2021-09-16 14:47:38.185155400 bitcoinmaxi performed balance request
+2021-09-16 14:47:38.186153200 bitcoinmaxi balance request successful
+2021-09-16 14:47:38.186153200 bitcoinmaxi performed amount owned request
+2021-09-16 14:47:38.187152700 bitcoinmaxi amount owned request successful
+2021-09-16 14:47:38.188147300 bitcoinmaxi performed user transactions request
+2021-09-16 14:47:38.189145300 bitcoinmaxi user transactions request successful
+2021-09-16 14:47:38.189145300 bitcoinmaxi performed crypto stats request
+2021-09-16 14:47:38.190141400 bitcoinmaxi crypto stats request successfull
+2021-09-16 14:47:53.938335600 admin performed send request
+2021-09-16 14:47:53.971248100 admin send request successful
+2021-09-16 14:48:41.313993200 bitcoinmaxi performed send request
+2021-09-16 14:48:41.482541200 bitcoinmaxi send request successful
+2021-09-16 14:49:21.905025200 bitcoinmaxi performed transaction request
+2021-09-16 14:49:21.935943300 bitcoinmaxi transaction request successful.
+2021-09-16 14:50:20.955328600 bitcoinmaxi Logged out.
+2021-09-16 14:50:23.408435600 admin Logged out.
+2021-09-16 15:11:08.641382800 admin Logged in.
+2021-09-16 15:11:08.796966200 admin performed balance request
+2021-09-16 15:11:08.800955800 admin balance request successful
+2021-09-16 15:11:08.800955800 admin performed amount owned request
+2021-09-16 15:11:08.804944800 admin amount owned request successful
+2021-09-16 15:11:08.804944800 admin performed user transactions request
+2021-09-16 15:11:08.812922500 admin user transactions request successful
+2021-09-16 15:11:08.812922500 admin performed crypto stats request
+2021-09-16 15:11:08.814917800 admin crypto stats request successfull
+2021-09-16 15:16:26.000767900 admin Logged out.
+2021-09-19 14:01:54.047733400 etherwinner Logged in.
+2021-09-19 14:01:54.237201100 etherwinner performed balance request
+2021-09-19 14:01:54.243184300 etherwinner balance request successful
+2021-09-19 14:01:54.243184300 etherwinner performed amount owned request
+2021-09-19 14:01:54.246176500 etherwinner amount owned request successful
+2021-09-19 14:01:54.246176500 etherwinner performed user transactions request
+2021-09-19 14:01:54.264128600 etherwinner user transactions request successful
+2021-09-19 14:01:54.269115100 etherwinner performed crypto stats request
+2021-09-19 14:01:54.277093700 etherwinner crypto stats request successfull
+2021-09-19 14:08:52.183707100 etherwinner Logged out.
+2021-09-19 14:11:49.668120 bitcoinmaxi Logged in.
+2021-09-19 14:11:49.825699700 bitcoinmaxi performed balance request
+2021-09-19 14:11:49.826697 bitcoinmaxi balance request successful
+2021-09-19 14:11:49.826697 bitcoinmaxi performed amount owned request
+2021-09-19 14:11:49.827695200 bitcoinmaxi amount owned request successful
+2021-09-19 14:11:49.827695200 bitcoinmaxi performed user transactions request
+2021-09-19 14:11:49.830686600 bitcoinmaxi user transactions request successful
+2021-09-19 14:11:49.830686600 bitcoinmaxi performed crypto stats request
+2021-09-19 14:11:49.832681200 bitcoinmaxi crypto stats request successfull
+2021-09-19 14:12:08.492826300 bitcoinmaxi Logged out.
+2021-09-19 14:12:13.292235800 admin Logged in.
+2021-09-19 14:12:13.345095800 admin performed balance request
+2021-09-19 14:12:13.346093500 admin balance request successful
+2021-09-19 14:12:13.346093500 admin performed amount owned request
+2021-09-19 14:12:13.347090400 admin amount owned request successful
+2021-09-19 14:12:13.347090400 admin performed user transactions request
+2021-09-19 14:12:13.351079900 admin user transactions request successful
+2021-09-19 14:12:13.351079900 admin performed crypto stats request
+2021-09-19 14:12:13.353078900 admin crypto stats request successfull
+2021-09-19 14:12:47.817850100 admin Logged out.
+2021-09-19 14:12:56.064408 pierobassa Logged in.
+2021-09-19 14:12:56.118114200 pierobassa performed balance request
+2021-09-19 14:12:56.119111600 pierobassa balance request successful
+2021-09-19 14:12:56.119111600 pierobassa performed amount owned request
+2021-09-19 14:12:56.126091800 pierobassa amount owned request successful
+2021-09-19 14:12:56.126091800 pierobassa performed user transactions request
+2021-09-19 14:12:56.133073300 pierobassa user transactions request successful
+2021-09-19 14:12:56.133073300 pierobassa performed crypto stats request
+2021-09-19 14:12:56.136064900 pierobassa crypto stats request successfull
+2021-09-19 14:13:52.064134700 pierobassa Logged out.
+2021-09-19 14:15:05.784750800 pierobassa Logged in.
+2021-09-19 14:15:05.934320200 pierobassa performed balance request
+2021-09-19 14:15:05.934320200 pierobassa balance request successful
+2021-09-19 14:15:05.934320200 pierobassa performed amount owned request
+2021-09-19 14:15:05.935317600 pierobassa amount owned request successful
+2021-09-19 14:15:05.935317600 pierobassa performed user transactions request
+2021-09-19 14:15:05.936315300 pierobassa user transactions request successful
+2021-09-19 14:15:05.936315300 pierobassa performed crypto stats request
+2021-09-19 14:15:05.937313200 pierobassa crypto stats request successfull
+2021-09-19 14:15:48.245517 pierobassa Logged out.
+2021-09-19 14:16:24.001704300 pierobassa Logged in.
+2021-09-19 14:16:24.143327 pierobassa performed balance request
+2021-09-19 14:16:24.143327 pierobassa balance request successful
+2021-09-19 14:16:24.143327 pierobassa performed amount owned request
+2021-09-19 14:16:24.144324 pierobassa amount owned request successful
+2021-09-19 14:16:24.144324 pierobassa performed user transactions request
+2021-09-19 14:16:24.145321700 pierobassa user transactions request successful
+2021-09-19 14:16:24.145321700 pierobassa performed crypto stats request
+2021-09-19 14:16:24.148312700 pierobassa crypto stats request successfull
+2021-09-19 14:17:08.776206700 pierobassa Logged out.
+2021-09-19 14:17:57.702600200 pierobassa Logged in.
+2021-09-19 14:17:57.843225500 pierobassa performed balance request
+2021-09-19 14:17:57.844223100 pierobassa balance request successful
+2021-09-19 14:17:57.844223100 pierobassa performed amount owned request
+2021-09-19 14:17:57.845220500 pierobassa amount owned request successful
+2021-09-19 14:17:57.845220500 pierobassa performed user transactions request
+2021-09-19 14:17:57.846217600 pierobassa user transactions request successful
+2021-09-19 14:17:57.846217600 pierobassa performed crypto stats request
+2021-09-19 14:17:57.847215 pierobassa crypto stats request successfull
+2021-09-19 14:18:19.689074800 pierobassa Logged out.
+2021-09-19 14:21:18.228299600 etherwinner Logged in.
+2021-09-19 14:21:18.378871900 etherwinner performed balance request
+2021-09-19 14:21:18.379868500 etherwinner balance request successful
+2021-09-19 14:21:18.379868500 etherwinner performed amount owned request
+2021-09-19 14:21:18.379868500 etherwinner amount owned request successful
+2021-09-19 14:21:18.380865400 etherwinner performed user transactions request
+2021-09-19 14:21:18.381863500 etherwinner user transactions request successful
+2021-09-19 14:21:18.381863500 etherwinner performed crypto stats request
+2021-09-19 14:21:18.383858 etherwinner crypto stats request successfull
+2021-09-19 14:21:33.363003 pierobassa Logged in.
+2021-09-19 14:21:33.497643600 pierobassa performed balance request
+2021-09-19 14:21:33.498640900 pierobassa balance request successful
+2021-09-19 14:21:33.498640900 pierobassa performed amount owned request
+2021-09-19 14:21:33.499638100 pierobassa amount owned request successful
+2021-09-19 14:21:33.499638100 pierobassa performed user transactions request
+2021-09-19 14:21:33.500635900 pierobassa user transactions request successful
+2021-09-19 14:21:33.501633300 pierobassa performed crypto stats request
+2021-09-19 14:21:33.502630400 pierobassa crypto stats request successfull
+2021-09-19 14:21:45.005277600 admin Logged in.
+2021-09-19 14:21:45.165849100 admin performed balance request
+2021-09-19 14:21:45.166846200 admin balance request successful
+2021-09-19 14:21:45.166846200 admin performed amount owned request
+2021-09-19 14:21:45.167842800 admin amount owned request successful
+2021-09-19 14:21:45.167842800 admin performed user transactions request
+2021-09-19 14:21:45.169837900 admin user transactions request successful
+2021-09-19 14:21:45.169837900 admin performed crypto stats request
+2021-09-19 14:21:45.170835400 admin crypto stats request successfull
+2021-09-19 14:22:02.366575300 bitcoinmaxi Logged in.
+2021-09-19 14:22:02.520165800 bitcoinmaxi performed balance request
+2021-09-19 14:22:02.520165800 bitcoinmaxi balance request successful
+2021-09-19 14:22:02.520165800 bitcoinmaxi performed amount owned request
+2021-09-19 14:22:02.521163300 bitcoinmaxi amount owned request successful
+2021-09-19 14:22:02.521163300 bitcoinmaxi performed user transactions request
+2021-09-19 14:22:02.522160700 bitcoinmaxi user transactions request successful
+2021-09-19 14:22:02.522160700 bitcoinmaxi performed crypto stats request
+2021-09-19 14:22:02.523157900 bitcoinmaxi crypto stats request successfull
+2021-09-19 14:22:46.803123700 etherwinner Logged out.
+2021-09-19 14:22:47.264862200 admin Logged out.
+2021-09-19 14:22:47.661254500 pierobassa Logged out.
+2021-09-19 14:22:48.497498900 bitcoinmaxi Logged out.
+2021-09-19 19:11:18.357465300 admin Logged in.
+2021-09-19 19:11:18.386388600 admin Logged out.
+2021-09-19 19:11:24.185044400 admin Logged in.
+2021-09-19 19:11:24.376532900 admin performed balance request
+2021-09-19 19:11:24.380522500 admin balance request successful
+2021-09-19 19:11:24.380522500 admin performed amount owned request
+2021-09-19 19:11:24.383523100 admin amount owned request successful
+2021-09-19 19:11:24.384512 admin performed user transactions request
+2021-09-19 19:11:24.393488 admin user transactions request successful
+2021-09-19 19:11:24.393488 admin performed crypto stats request
+2021-09-19 19:11:24.397476900 admin crypto stats request successfull
+2021-09-19 19:11:42.405626800 admin Logged out.
+2021-09-19 19:13:16.489667300 test signed up.
+2021-09-19 19:13:23.159154700 test Logged in.
+2021-09-19 19:13:23.307777200 test performed balance request
+2021-09-19 19:13:23.307777200 test balance request successful
+2021-09-19 19:13:23.308774500 test performed amount owned request
+2021-09-19 19:13:23.309771400 test amount owned request successful
+2021-09-19 19:13:23.309771400 test performed user transactions request
+2021-09-19 19:13:23.309771400 test user transactions request successful
+2021-09-19 19:13:23.310768700 test performed crypto stats request
+2021-09-19 19:13:23.311766100 test crypto stats request successfull
+2021-09-19 19:14:24.465519900 test Logged out.
+2021-09-19 19:15:01.739232800 test Logged in.
+2021-09-19 19:15:01.811041500 test performed balance request
+2021-09-19 19:15:01.812039300 test balance request successful
+2021-09-19 19:15:01.812039300 test performed amount owned request
+2021-09-19 19:15:01.813036300 test amount owned request successful
+2021-09-19 19:15:01.813036300 test performed user transactions request
+2021-09-19 19:15:01.814034500 test user transactions request successful
+2021-09-19 19:15:01.814034500 test performed crypto stats request
+2021-09-19 19:15:01.815030900 test crypto stats request successfull
+2021-09-19 19:16:04.179337400 test performed deposit request
+2021-09-19 19:16:04.307995500 test deposited from card
+2021-09-19 19:16:17.421654 test performed transaction request
+2021-09-19 19:16:17.469525900 test transaction request successful.
+2021-09-19 19:16:38.144286 test performed transaction request
+2021-09-19 19:16:38.177198200 test transaction request successful.
+2021-09-19 19:16:43.165055300 test performed transaction request
+2021-09-19 19:16:43.196969400 test transaction request successful.
+2021-09-19 19:16:49.735771 test performed transaction request
+2021-09-19 19:16:49.771675500 test transaction request successful.
+2021-09-19 19:18:08.942154300 test performed update username request
+2021-09-19 19:18:15.957389300 test performed update username request
+2021-09-19 19:18:15.999277 test changed username to tester
+2021-09-19 19:18:23.602346200 tester Logged out.
+2021-09-22 15:04:21.568397200 admin Logged in.
+2021-09-22 15:04:21.745922300 admin performed balance request
+2021-09-22 15:04:21.751906900 admin balance request successful
+2021-09-22 15:04:21.751906900 admin performed amount owned request
+2021-09-22 15:04:21.754898500 admin amount owned request successful
+2021-09-22 15:04:21.755896100 admin performed user transactions request
+2021-09-22 15:04:21.784818300 admin user transactions request successful
+2021-09-22 15:04:21.784818300 admin performed crypto stats request
+2021-09-22 15:04:21.787810700 admin crypto stats request successfull
+2021-09-22 15:08:23.521863500 admin Logged out.
+2021-09-24 16:39:49.055704100 admin Logged in.
+2021-09-24 16:39:49.271622600 admin performed balance request
+2021-09-24 16:39:49.287579900 admin balance request successful
+2021-09-24 16:39:49.287579900 admin performed amount owned request
+2021-09-24 16:39:49.290571700 admin amount owned request successful
+2021-09-24 16:39:49.291569300 admin performed user transactions request
+2021-09-24 16:39:49.301541700 admin user transactions request successful
+2021-09-24 16:39:49.301541700 admin performed crypto stats request
+2021-09-24 16:39:49.304534400 admin crypto stats request successfull
+2021-09-24 16:41:13.959907100 admin Logged out.
+2021-09-24 17:22:33.301801200 admin Logged in.
+2021-09-24 17:22:33.454393900 admin performed balance request
+2021-09-24 17:22:33.455391 admin balance request successful
+2021-09-24 17:22:33.455391 admin performed amount owned request
+2021-09-24 17:22:33.456388300 admin amount owned request successful
+2021-09-24 17:22:33.456388300 admin performed user transactions request
+2021-09-24 17:22:33.468356400 admin user transactions request successful
+2021-09-24 17:22:33.468356400 admin performed crypto stats request
+2021-09-24 17:22:33.469352800 admin crypto stats request successfull
+2021-09-24 17:33:12.028382200 admin Logged out.
+2021-09-25 10:17:51.513022400 admin Logged in.
+2021-09-25 10:17:51.704433500 admin performed balance request
+2021-09-25 10:17:51.709420700 admin balance request successful
+2021-09-25 10:17:51.709420700 admin performed amount owned request
+2021-09-25 10:17:51.713432400 admin amount owned request successful
+2021-09-25 10:17:51.713432400 admin performed user transactions request
+2021-09-25 10:17:51.727645700 admin user transactions request successful
+2021-09-25 10:17:51.727645700 admin performed crypto stats request
+2021-09-25 10:17:51.730527800 admin crypto stats request successfull
+2021-09-25 10:18:22.177269100 admin Logged out.
+2021-09-25 10:29:36.157233500 admin Logged in.
+2021-09-25 10:29:36.382847300 admin performed balance request
+2021-09-25 10:29:36.390254500 admin balance request successful
+2021-09-25 10:29:36.390254500 admin performed amount owned request
+2021-09-25 10:29:36.392572600 admin amount owned request successful
+2021-09-25 10:29:36.392572600 admin performed user transactions request
+2021-09-25 10:29:36.410524500 admin user transactions request successful
+2021-09-25 10:29:36.411521900 admin performed crypto stats request
+2021-09-25 10:29:36.419777900 admin crypto stats request successfull
+2021-09-25 10:30:30.359814800 admin Logged out.
+2021-09-25 10:53:37.757114600 admin Logged in.
+2021-09-25 10:53:37.900021400 admin performed balance request
+2021-09-25 10:53:37.900995500 admin balance request successful
+2021-09-25 10:53:37.901992600 admin performed amount owned request
+2021-09-25 10:53:37.904333800 admin amount owned request successful
+2021-09-25 10:53:37.904984300 admin performed user transactions request
+2021-09-25 10:53:37.910967300 admin user transactions request successful
+2021-09-25 10:53:37.910967300 admin performed crypto stats request
+2021-09-25 10:53:37.911966200 admin crypto stats request successfull
+2021-09-25 11:04:38.609848600 admin Logged out.
+2021-09-25 11:04:56.526924400 admin Logged in.
+2021-09-25 11:04:56.763649200 admin performed balance request
+2021-09-25 11:04:56.763731800 admin balance request successful
+2021-09-25 11:04:56.763731800 admin performed amount owned request
+2021-09-25 11:04:56.764730100 admin amount owned request successful
+2021-09-25 11:04:56.765727500 admin performed user transactions request
+2021-09-25 11:04:56.767721900 admin user transactions request successful
+2021-09-25 11:04:56.767721900 admin performed crypto stats request
+2021-09-25 11:04:56.769716600 admin crypto stats request successfull
+2021-09-25 11:08:33.880023 admin Logged out.
+2021-09-29 21:37:13.161271500 pierobassa Logged in.
+2021-09-29 21:37:13.428214700 pierobassa performed balance request
+2021-09-29 21:37:13.434198600 pierobassa balance request successful
+2021-09-29 21:37:13.434198600 pierobassa performed amount owned request
+2021-09-29 21:37:13.438188500 pierobassa amount owned request successful
+2021-09-29 21:37:13.438188500 pierobassa performed user transactions request
+2021-09-29 21:37:13.445168200 pierobassa user transactions request successful
+2021-09-29 21:37:13.445168200 pierobassa performed crypto stats request
+2021-09-29 21:37:13.448160300 pierobassa crypto stats request successfull
+2021-09-29 21:40:21.016434200 pierobassa Logged out.
+2021-09-29 21:41:07.351121900 pierobassa Logged in.
+2021-09-29 21:41:07.542168700 pierobassa performed balance request
+2021-09-29 21:41:07.543166800 pierobassa balance request successful
+2021-09-29 21:41:07.543166800 pierobassa performed amount owned request
+2021-09-29 21:41:07.544163200 pierobassa amount owned request successful
+2021-09-29 21:41:07.544163200 pierobassa performed user transactions request
+2021-09-29 21:41:07.546160 pierobassa user transactions request successful
+2021-09-29 21:41:07.546160 pierobassa performed crypto stats request
+2021-09-29 21:41:07.548153600 pierobassa crypto stats request successfull
+2021-09-29 22:00:09.894555100 pierobassa performed update username and password request
+2021-09-29 22:00:11.061118200 pierobassa changed username to piero and changed password
+2021-09-29 22:00:30.539838300 piero performed update username and password request
+2021-09-29 22:00:35.780685400 piero performed update username and password request
+2021-09-29 22:00:48.913208400 piero performed update username and password request
+2021-09-29 22:00:49.809877700 piero changed username to pierobassa and changed password
+2021-09-29 22:04:27.627623100 pierobassa performed transaction request
+2021-09-29 22:04:27.695442500 pierobassa transaction request successful.
+2021-09-29 22:06:14.236785400 pierobassa performed transaction request
+2021-09-29 22:06:14.277677500 pierobassa transaction request successful.
+2021-09-29 22:12:06.866786300 pierobassa Logged out.

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="anchor" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="747.0" prefWidth="1328.0" style="-fx-background-color: #0F1D26;" stylesheets="@../style/style.css" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="application.controller.LoginController">
+   <children>
+      <ImageView fx:id="topImage" fitHeight="156.0" fitWidth="200.0" layoutX="888.0" layoutY="70.0">
+         <image>
+            <Image url="@../../../resources/images/onlyB.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="rightImage" fitHeight="747.0" fitWidth="809.0">
+         <image>
+            <Image url="@../../../resources/images/final.png" />
+         </image>
+      </ImageView>
+      <Pane layoutX="830.0" layoutY="226.0" prefHeight="41.0" prefWidth="337.0" style="-fx-background-color: #D6D6D6;" stylesheets="@../style/style.css">
+         <children>
+            <TextField fx:id="usernameField" alignment="CENTER_RIGHT" focusTraversable="false" layoutX="14.0" layoutY="8.0" prefHeight="25.0" prefWidth="309.0" promptText="username" style="-fx-background-color: #D6D6D6; -fx-prompt-text-fill: white;" styleClass="login-text-color" stylesheets="@../style/style.css">
+               <font>
+                  <Font name="Arial Bold Italic" size="14.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </TextField>
+         </children>
+         <styleClass>
+            <String fx:value="rounded-item" />
+            <String fx:value="shadow-login-text-field" />
+         </styleClass>
+      </Pane>
+      <Pane layoutX="830.0" layoutY="333.0" prefHeight="41.0" prefWidth="337.0" style="-fx-background-color: #D6D6D6;" stylesheets="@../style/style.css">
+         <styleClass>
+            <String fx:value="rounded-item" />
+            <String fx:value="shadow-login-text-field" />
+         </styleClass>
+         <children>
+            <PasswordField fx:id="passwordField" alignment="CENTER_RIGHT" focusTraversable="false" layoutX="14.0" layoutY="8.0" prefHeight="25.0" prefWidth="309.0" promptText="password" style="-fx-background-color: #D6D6D6; -fx-prompt-text-fill: white;">
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <font>
+                  <Font name="Arial Bold Italic" size="14.0" />
+               </font>
+            </PasswordField>
+         </children>
+      </Pane>
+      <Label fx:id="errorLbl" layoutX="826.0" layoutY="394.0" prefHeight="19.0" prefWidth="346.0" text="I'm sorry! Incorrect username or password." textFill="#ffd2d2">
+         <font>
+            <Font name="Arial Bold Italic" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="902.0" layoutY="533.0" prefHeight="27.0" prefWidth="131.0" text="First time here? " textFill="#cdf6ff">
+         <font>
+            <Font name="Arial Italic" size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="signupLbl" layoutX="1033.0" layoutY="533.0" onMousePressed="#switchToSignup" prefHeight="27.0" prefWidth="67.0" text="Sign up" textFill="#57e3ff" underline="true">
+         <font>
+            <Font name="Arial Bold Italic" size="18.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Label>
+      <Button fx:id="loginBtn" layoutX="830.0" layoutY="465.0" mnemonicParsing="false" onMousePressed="#login" prefHeight="41.0" prefWidth="337.0" style="-fx-background-color: #DF028B;" stylesheets="@../style/style.css" text="Log in" textFill="WHITE">
+         <styleClass>
+            <String fx:value="rounded-item" />
+            <String fx:value="login-button" />
+         </styleClass>
+         <font>
+            <Font name="Arial Bold Italic" size="25.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+   </children>
+</AnchorPane>

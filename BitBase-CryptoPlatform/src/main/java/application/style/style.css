@@ -1,0 +1,251 @@
+.search-box{
+    -fx-background-color:#FFFFFF;
+    -fx-background-radius: 100;
+}
+
+.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+
+.search-button{
+    -fx-background-color: #828282;
+    -fx-background-radius: 30;
+}
+
+.right-bar{
+    -fx-background-color: #D3D3D3;
+}
+
+.shadow{
+    -fx-effect: dropShadow(three-pass-box,rgba(0,0,0,0.1), 10.0 , 0.0 , 0.0 ,10.0);
+}
+
+.dialog-shadow{
+    -fx-effect: dropShadow(three-pass-box,rgba(0,0,0,0.2), 10.0 , 0.0 , 0.0 ,10.0);
+}
+
+.dialog-button{
+	-fx-background-color: #d6daff;
+	-fx-background-radius: 30;
+}
+
+.dialog-button:hover{
+	-fx-background-color:  #bdc4fc;
+}
+
+.dialog-button-deposit{
+	-fx-background-color: #eb34fa;
+	-fx-background-radius: 30;
+}
+
+.dialog-button-deposit:hover{
+	-fx-background-color:  #f68aff;
+}
+
+.shadow-crypto-previews{
+    -fx-effect: dropShadow(three-pass-box,rgba(0,0,0,0.1), 10.0 , 0.0 , 0.0 ,8.0);
+}
+
+.shadow-login-text-field{
+    -fx-effect: dropShadow(three-pass-box,rgba(1,255,255,0.7), 20.0 , 0.0 , 0.0 ,1.0);
+}
+
+.login-button{
+	-fx-background-radius: 30;
+    -fx-effect: dropShadow(three-pass-box,rgba(223,2,139,0.7), 20.0 , 0.0 , 0.0 ,1.0);
+}
+
+.login-button:pressed {
+     -fx-scale-y: 0.97;
+    -fx-scale-x: 0.97;
+}
+
+.login-text-color{
+	-fx-text-fill:  #0F1D26;
+}
+
+.chosen-fruit-card{
+    -fx-background-color: #F16C31;
+    -fx-background-radius: 30;
+}
+
+.comboBox{
+    -fx-background-color: rgba(255,255,255,0.3);
+    -fx-background-radius: 30;
+}
+
+.add-btn{
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 100;
+}
+
+.free-delivery-card{
+    -fx-background-color: #D3D3D3;
+    -fx-background-radius: 30;
+}
+
+.shopping-online-card{
+    -fx-background-color: #BAEAC3;
+    -fx-background-radius: 30;
+}
+
+
+
+.rounded-item{
+    -fx-background-color: #FFFFFF;
+        -fx-background-radius: 30;
+}
+
+.rounded-item-portfolio{
+        -fx-background-radius: 10;
+}
+
+.rounded-item-buy{
+        -fx-background-radius: 30;
+}
+
+.shadow-buy-field{
+    -fx-effect: dropShadow(three-pass-box,rgba(0,248,107,0.7), 20.0 , 0.0 , 0.0 ,1.0);
+}
+
+
+.rounded-item-buy{
+        -fx-background-radius: 30;
+}
+
+.rounded-item-home{
+        -fx-background-radius: 15;
+}
+
+.rounded-item-menu{
+	 -fx-background-color:  #363B6A;
+        -fx-background-radius: 30;
+}
+
+.rounded-item-menu-logout{
+	 -fx-background-color:  #363B6A;
+        -fx-background-radius: 30;
+}
+
+.rounded-item-menu:hover{
+	-fx-background-color: #50568D;
+}
+
+.rounded-item-menu-logout:hover{
+	-fx-background-color: #FF009D;
+}
+
+.deposit-button{
+	-fx-background-color:  #32DBE1;
+}
+
+.deposit-button:hover{
+	-fx-background-color:  #8DFBFF;
+}
+
+.deposit-button-dialog{
+	-fx-background-color:  #36f8ff;
+}
+
+.deposit-button-dialog:hover{
+	-fx-background-color:  #8DFBFF;
+}
+
+
+.edit-button{
+	-fx-background-color:   #3e488a;
+}
+
+.edit-button:hover{
+	-fx-background-color:  #272a4a;
+}
+
+.rounded-item-buy-sell{
+        -fx-background-radius: 30;
+}
+
+.rounded-item-buy-sell:pressed {
+     -fx-scale-y: 0.97;
+    -fx-scale-x: 0.97;
+}
+
+.deposit-card{
+	-fx-background-color: linear-gradient(to left, #e839f6, #61d8de);
+}
+
+.deposit-button-suggestion{
+	-fx-background-color:  #41488a;
+}
+
+.send-withdraw-button{
+	-fx-background-color:  #ffffff;
+}
+
+.send-withdraw-button:hover{
+	-fx-background-color:  #e4f7f6;
+}
+
+.deposit-button-suggestion:hover{
+	-fx-background-color:  #07e0e8;
+}
+
+.send-withdraw-root{
+	/* -fx-border-radius: 0 0 30 30;*/
+  	-fx-background-radius: 0 0 30 30;
+}
+
+.send-button{
+	/* -fx-border-radius: 0 0 30 30;*/
+  	-fx-background-radius: 30 0 0 0;
+}
+
+.withdraw-button{
+	/* -fx-border-radius: 0 0 30 30;*/
+  	-fx-background-radius: 0 30 0 0;
+}
+
+.scroll-bar:horizontal, .scroll-bar:vertical{
+    -fx-background-color:transparent;
+}
+
+.scroll-bar:horizontal .thumb,
+.scroll-bar:vertical .thumb {
+    -fx-background-color: #32DBE1;
+    -fx-background-radius: 5em;
+}
+
+.scroll-bar > .increment-button > .increment-arrow,
+.scroll-bar > .decrement-button > .decrement-arrow {
+    -fx-background-color: #32DBE1;
+}
+
+.scroll-bar > .increment-button:hover,
+.scroll-bar > .decrement-button:hover {
+    -fx-background-color:  #272A4A;
+}
+
+
+.combo-box .arrow{	
+    -fx-background-color:#2478E9;
+}
+
+
+.combo-box-base {
+    -fx-text-fill: #363b6a;
+}
+
+.combo-box .cell{
+    -fx-text-fill: #363b6a;
+    -fx-font: 16px "Arial";
+    -fx-font-weight: bold;
+    -fx-font-style: italic; 
+}
+
+.combo-box-popup .list-view .list-cell
+ {
+	-fx-background-color: white;
+ }
+ 
+.combo-box-popup .list-view .list-cell:hover {
+    -fx-background-color: #32DBE1;
+}

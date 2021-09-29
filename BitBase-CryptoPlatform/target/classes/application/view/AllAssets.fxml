@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="anchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="747.0" prefWidth="1328.0" style="-fx-background-color: #0F1D26;" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="application.controller.AllAssetsController">
+   <children>
+      <Pane fx:id="menuPane" layoutX="6.0" layoutY="8.0" prefHeight="732.0" prefWidth="237.0" style="-fx-background-color: #363B6A;" styleClass="rounded-item-home" stylesheets="@../style/style.css" AnchorPane.bottomAnchor="8.0" AnchorPane.leftAnchor="6.0" AnchorPane.topAnchor="8.0">
+         <children>
+            <Pane layoutX="19.0" layoutY="193.0" onMousePressed="#setHomePage" prefHeight="44.0" prefWidth="200.0" styleClass="rounded-item-menu">
+               <children>
+                  <Circle fill="#50568d" layoutX="30.0" layoutY="23.0" radius="16.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+                  <Label layoutX="65.0" layoutY="11.0" text="Home" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="19.0" />
+                     </font>
+                  </Label>
+                  <ImageView fx:id="homeIcon" fitHeight="19.0" fitWidth="18.0" layoutX="21.0" layoutY="12.0">
+                     <image>
+                        <Image url="@../../../resources/images/icons/home-icon.png" />
+                     </image>
+                  </ImageView>
+               </children>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Pane>
+            <Pane layoutX="19.0" layoutY="278.0" onMousePressed="#goToPortfolio" prefHeight="44.0" prefWidth="200.0" styleClass="rounded-item-menu">
+               <children>
+                  <Circle fill="#50568d" layoutX="30.0" layoutY="23.0" radius="16.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+                  <Label layoutX="66.0" layoutY="11.0" text="Portfolio" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="19.0" />
+                     </font>
+                  </Label>
+                  <ImageView fx:id="portfolioIcon" fitHeight="19.0" fitWidth="18.0" layoutX="21.0" layoutY="12.0">
+                     <image>
+                        <Image url="@../../../resources/images/icons/chart-icon.png" />
+                     </image>
+                  </ImageView>
+               </children>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Pane>
+            <Pane layoutX="19.0" layoutY="359.0" prefHeight="44.0" prefWidth="200.0" style="-fx-background-color: #50568D;" styleClass="rounded-item-menu">
+               <children>
+                  <Circle fill="#50568d" layoutX="30.0" layoutY="23.0" radius="16.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+                  <Label layoutX="66.0" layoutY="11.0" text="All Assets" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="19.0" />
+                     </font>
+                  </Label>
+                  <ImageView fx:id="tradeIcon" fitHeight="20.0" fitWidth="20.0" layoutX="20.0" layoutY="13.0">
+                     <image>
+                        <Image url="@../../../resources/images/icons/trade-icon.png" />
+                     </image>
+                  </ImageView>
+               </children>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Pane>
+            <ImageView fx:id="homelogoImg" fitHeight="179.0" fitWidth="188.0" layoutX="39.0" layoutY="8.0" onMousePressed="#setHomePage">
+               <image>
+                  <Image url="@../../../resources/images/homepagelogo.png" />
+               </image>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </ImageView>
+            <Pane fx:id="logoutPane" layoutX="19.0" layoutY="662.0" onMousePressed="#logout" prefHeight="44.0" prefWidth="200.0" styleClass="rounded-item-menu-logout">
+               <children>
+                  <Circle fill="#ff009d" layoutX="30.0" layoutY="23.0" radius="16.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+                  <Label layoutX="64.0" layoutY="13.0" text="Logout" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="19.0" />
+                     </font>
+                  </Label>
+                  <ImageView fx:id="logoutIcon" fitHeight="16.0" fitWidth="16.0" layoutX="22.0" layoutY="15.0">
+                     <image>
+                        <Image url="@../../../resources/images/icons/logout-icon.png" />
+                     </image>
+                  </ImageView>
+               </children>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Pane>
+         </children>
+      </Pane>
+      <Pane fx:id="welcomePane" layoutX="249.0" layoutY="8.0" prefHeight="87.0" prefWidth="1073.0" style="-fx-background-color: #363B6A;" styleClass="rounded-item-home" stylesheets="@../style/style.css" AnchorPane.leftAnchor="249.0" AnchorPane.rightAnchor="6.0" AnchorPane.topAnchor="8.0">
+         <children>
+            <Pane fx:id="myAccountBtn" layoutX="881.0" layoutY="22.0" onMousePressed="#openMyAccount" prefHeight="44.0" prefWidth="170.0" styleClass="rounded-item-menu">
+               <children>
+                  <Circle fill="#50568d" layoutX="35.0" layoutY="23.0" radius="16.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+                  <Label layoutX="62.0" layoutY="13.0" text="My account" textFill="WHITE" wrapText="true">
+                     <font>
+                        <Font name="Arial Bold Italic" size="16.0" />
+                     </font>
+                  </Label>
+                  <ImageView fx:id="accountIcon" fitHeight="19.0" fitWidth="18.0" layoutX="26.0" layoutY="12.0">
+                     <image>
+                        <Image url="@../../../resources/images/icons/user-icon.png" />
+                     </image>
+                  </ImageView>
+               </children>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <padding>
+                  <Insets right="-10.0" />
+               </padding>
+            </Pane>
+            <Pane fx:id="depositBtn" layoutX="706.0" layoutY="22.0" onMousePressed="#openDeposit" prefHeight="44.0" prefWidth="164.0" stylesheets="@../style/style.css">
+               <children>
+                  <Label layoutX="45.0" layoutY="9.0" prefHeight="26.0" prefWidth="78.0" text="DEPOSIT" textFill="#363b6a">
+                     <font>
+                        <Font name="Arial Bold Italic" size="16.0" />
+                     </font>
+                  </Label>
+               </children>
+               <styleClass>
+                  <String fx:value="rounded-item" />
+                  <String fx:value="deposit-button" />
+               </styleClass>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Pane>
+            <Label fx:id="InfoLbl" layoutX="27.0" layoutY="28.0" text="Browse all available Assets!" textFill="WHITE">
+               <font>
+                  <Font name="Arial Bold Italic" size="26.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="allAssetsPane" layoutX="249.0" layoutY="568.0" prefHeight="638.0" prefWidth="1073.0" style="-fx-background-color: #272A4A;" styleClass="rounded-item-portfolio" stylesheets="@../style/style.css" AnchorPane.bottomAnchor="8.0" AnchorPane.leftAnchor="249.0" AnchorPane.rightAnchor="6.0" AnchorPane.topAnchor="101.0">
+         <children>
+            <Label fx:id="assetNameLbl" layoutX="70.0" layoutY="66.0" text="Asset name" textFill="#d7d7d7">
+               <font>
+                  <Font name="Arial Bold Italic" size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="priceLbl" layoutX="236.0" layoutY="66.0" text="Price" textFill="#d7d7d7">
+               <font>
+                  <Font name="Arial Bold Italic" size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="changeLbl" layoutX="389.0" layoutY="66.0" text="24h change" textFill="#d7d7d7">
+               <font>
+                  <Font name="Arial Bold Italic" size="14.0" />
+               </font>
+            </Label>
+            <ScrollPane fx:id="scrollPaneAssets" hbarPolicy="NEVER" layoutY="92.0" prefHeight="539.0" prefWidth="1073.0" style="-fx-background: transparent; -fx-background-color: transparent;">
+               <content>
+                  <VBox fx:id="vBoxAssets" prefHeight="5.0" prefWidth="1059.0" style="-fx-background-color: #272A4A; -fx-spacing: 14;" />
+               </content>
+            </ScrollPane>
+            <Label fx:id="marketCapLbl" layoutX="551.0" layoutY="66.0" text="Market cap" textFill="#d7d7d7">
+               <font>
+                  <Font name="Arial Bold Italic" size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="volumeLbl" layoutX="919.0" layoutY="66.0" text="Volume 24H" textFill="#d7d7d7">
+               <font>
+                  <Font name="Arial Bold Italic" size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="circulatingSupplyLbl" layoutX="710.0" layoutY="66.0" text="Circulating Supply" textFill="#d7d7d7">
+               <font>
+                  <Font name="Arial Bold Italic" size="14.0" />
+               </font>
+            </Label>
+            <Pane fx:id="searchPane" layoutX="26.0" layoutY="11.0" prefHeight="41.0" prefWidth="323.0" style="-fx-background-color: #50568D;" stylesheets="@../style/style.css">
+               <children>
+                  <TextField fx:id="searchField" focusTraversable="false" layoutX="30.0" layoutY="6.0" prefHeight="30.0" prefWidth="275.0" promptText="Search all assets" style="-fx-background-color: #50568D; -fx-text-fill: white; -fx-prompt-text-fill: white;" styleClass="login-text-color" stylesheets="@../style/style.css">
+                     <font>
+                        <Font name="Arial Bold Italic" size="16.0" />
+                     </font>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                  </TextField>
+                  <ImageView fx:id="searchImg" layoutX="14.0" layoutY="13.0">
+                     <image>
+                        <Image url="@../../../resources/images/icons/search-icon.png" />
+                     </image>
+                  </ImageView>
+               </children>
+               <styleClass>
+                  <String fx:value="rounded-item-buy" />
+                  <String fx:value="shadow-crypto-previews" />
+               </styleClass>
+            </Pane>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

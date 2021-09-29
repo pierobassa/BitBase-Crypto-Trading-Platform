@@ -1,0 +1,30 @@
+
+
+.chart-pie {
+    -fx-border-color: derive(-fx-pie-color, -40%);
+    -fx-border-width: 3px;
+    /*-fx-border-color: transparent;*/
+}
+
+.chart-legend {
+  /*-fx-background-color:  #fafad2;
+   -fx-stroke: #daa520;
+   */
+   
+   -fx-background-color:  transparent;
+}
+
+.chart-legend-item{
+	-fx-font-family: arial;
+	-fx-font-style: italic;
+	-fx-font-weight: bold;
+    -fx-text-fill: #ffffff;
+}
+
+.default-color0.chart-pie { -fx-pie-color: -data-color-1; }
+.default-color1.chart-pie { -fx-pie-color: -data-color-2; }
+.default-color2.chart-pie { -fx-pie-color: -data-color-3; }
+.default-color3.chart-pie { -fx-pie-color: -data-color-4; }
+.default-color4.chart-pie { -fx-pie-color: -data-color-5; }
+.default-color5.chart-pie { -fx-pie-color: -data-color-6; }
+.default-color6.chart-pie { -fx-pie-color: -data-color-7; }

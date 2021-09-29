@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="640.0" prefWidth="600.0" style="-fx-background-color: transparent;" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="application.controller.DepositAmountDialogController">
+   <children>
+      <Pane layoutX="29.0" layoutY="23.0" prefHeight="557.0" prefWidth="542.0" style="-fx-background-color: #5f69c2;" stylesheets="@../style/style.css">
+         <styleClass>
+            <String fx:value="rounded-item" />
+            <String fx:value="dialog-shadow" />
+         </styleClass>
+         <children>
+            <Pane fx:id="closeBtn" layoutX="416.0" layoutY="17.0" onMousePressed="#closeDialog" prefHeight="38.0" prefWidth="107.0" styleClass="dialog-button" stylesheets="@../style/style.css">
+               <children>
+                  <Label layoutX="28.0" layoutY="6.0" prefHeight="26.0" prefWidth="54.0" text="CLOSE" textFill="#363b6a">
+                     <font>
+                        <Font name="Arial Bold Italic" size="14.0" />
+                     </font>
+                  </Label>
+               </children>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Pane>
+            <Pane fx:id="nextBtn" layoutX="136.0" layoutY="458.0" onMousePressed="#goToPayment" prefHeight="53.0" prefWidth="283.0" stylesheets="@../style/style.css">
+               <children>
+                  <Label layoutX="115.0" layoutY="14.0" prefHeight="26.0" prefWidth="54.0" text="NEXT" textFill="#363b6a">
+                     <font>
+                        <Font name="Arial Bold Italic" size="19.0" />
+                     </font>
+                  </Label>
+               </children>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <styleClass>
+                  <String fx:value="deposit-button-dialog" />
+                  <String fx:value="rounded-item" />
+               </styleClass>
+            </Pane>
+            <Label fx:id="errorLbl" layoutX="136.0" layoutY="517.0" prefHeight="26.0" prefWidth="345.0" text="I'm sorry! Expiration date is invalid." textFill="#ffeded" wrapText="true">
+               <font>
+                  <Font name="Arial Bold Italic" size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="priceLbl" layoutX="35.0" layoutY="103.0" text="CHOOSE YOUR AMOUNT" textFill="WHITE">
+               <font>
+                  <Font name="Arial Bold Italic" size="21.0" />
+               </font>
+            </Label>
+            <Label fx:id="balanceLbl" layoutX="81.0" layoutY="29.0" text="\$14.987" textFill="WHITE">
+               <font>
+                  <Font name="Arial Bold Italic" size="24.0" />
+               </font>
+            </Label>
+            <Pane fx:id="amount1000Btn" layoutX="35.0" layoutY="153.0" onMousePressed="#set1000" prefHeight="68.0" prefWidth="231.0" stylesheets="@../style/style.css">
+               <styleClass>
+                  <String fx:value="rounded-item" />
+                  <String fx:value="shadow" />
+                  <String fx:value="deposit-button-suggestion" />
+               </styleClass>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <children>
+                  <Label layoutX="78.0" layoutY="18.0" text="\$1000" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="27.0" />
+                     </font>
+                  </Label>
+               </children>
+            </Pane>
+            <Pane fx:id="amount500Btn" layoutX="277.0" layoutY="153.0" onMousePressed="#set500" prefHeight="68.0" prefWidth="231.0" stylesheets="@../style/style.css">
+               <styleClass>
+                  <String fx:value="rounded-item" />
+                  <String fx:value="shadow" />
+                  <String fx:value="deposit-button-suggestion" />
+               </styleClass>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <children>
+                  <Label layoutX="84.0" layoutY="16.0" text="\$500" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="27.0" />
+                     </font>
+                  </Label>
+               </children>
+            </Pane>
+            <Pane fx:id="amount250Btn" layoutX="35.0" layoutY="234.0" onMousePressed="#set250" prefHeight="68.0" prefWidth="231.0" stylesheets="@../style/style.css">
+               <styleClass>
+                  <String fx:value="rounded-item" />
+                  <String fx:value="shadow" />
+                  <String fx:value="deposit-button-suggestion" />
+               </styleClass>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <children>
+                  <Label layoutX="85.0" layoutY="18.0" text="\$250" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="27.0" />
+                     </font>
+                  </Label>
+               </children>
+            </Pane>
+            <Pane fx:id="amount100Btn" layoutX="277.0" layoutY="234.0" onMousePressed="#set100" prefHeight="68.0" prefWidth="231.0" stylesheets="@../style/style.css">
+               <styleClass>
+                  <String fx:value="rounded-item" />
+                  <String fx:value="shadow" />
+                  <String fx:value="deposit-button-suggestion" />
+               </styleClass>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <children>
+                  <Label layoutX="85.0" layoutY="18.0" text="\$100" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="27.0" />
+                     </font>
+                  </Label>
+               </children>
+            </Pane>
+            <TextField fx:id="amountField" alignment="CENTER" layoutX="61.0" layoutY="323.0" prefHeight="96.0" prefWidth="420.0" style="-fx-background-color: #5f69c2; -fx-text-fill: white;" styleClass="login-text-color" stylesheets="@../style/style.css">
+               <font>
+                  <Font name="Arial Bold Italic" size="63.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </TextField>
+            <ImageView fx:id="balanceImg" layoutX="37.0" layoutY="26.0">
+               <image>
+                  <Image url="@../../../resources/images/icons/wallet-icon-deposit.png" />
+               </image>
+            </ImageView>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

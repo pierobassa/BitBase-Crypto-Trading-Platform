@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="747.0" prefWidth="1328.0" style="-fx-background-color: #0F1D26;" styleClass="dialog-shadow" stylesheets="@../style/style.css" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="application.controller.SignupController">
+   <children>
+      <ImageView fx:id="topImage" fitHeight="156.0" fitWidth="200.0" layoutX="910.0" layoutY="14.0">
+         <image>
+            <Image url="@../../../resources/images/onlyB.png" />
+         </image>
+      </ImageView>
+      <Pane layoutX="1184.0" layoutY="425.0" onMousePressed="#openPasswordRequirements" prefHeight="30.0" prefWidth="39.0" styleClass="shadow-login-text-field" stylesheets="@../style/style.css">
+         <children>
+            <Circle fill="#cf007d" layoutX="19.0" layoutY="16.0" radius="14.0" stroke="WHITE" strokeType="INSIDE">
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Circle>
+            <ImageView fx:id="infoIcon" fitHeight="15.0" fitWidth="15.0" layoutX="11.0" layoutY="8.0">
+               <image>
+                  <Image url="@../../../resources/images/icons/info-icon.png" />
+               </image>
+            </ImageView>
+         </children>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Pane>
+      <Pane layoutX="840.0" layoutY="150.0" prefHeight="41.0" prefWidth="337.0" style="-fx-background-color: #D6D6D6;" stylesheets="@../style/style.css">
+         <children>
+            <TextField fx:id="usernameField" alignment="CENTER_RIGHT" focusTraversable="false" layoutX="14.0" layoutY="7.0" prefHeight="25.0" prefWidth="309.0" promptText="username" style="-fx-background-color: transparent; -fx-prompt-text-fill: white;" styleClass="login-text-color" stylesheets="@../style/style.css">
+               <font>
+                  <Font name="Arial Bold Italic" size="14.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </TextField>
+         </children>
+         <styleClass>
+            <String fx:value="rounded-item" />
+            <String fx:value="shadow-login-text-field" />
+         </styleClass>
+      </Pane>
+      <Pane layoutX="841.0" layoutY="240.0" prefHeight="41.0" prefWidth="337.0" style="-fx-background-color: #D6D6D6;" stylesheets="@../style/style.css">
+         <styleClass>
+            <String fx:value="rounded-item" />
+            <String fx:value="shadow-login-text-field" />
+         </styleClass>
+         <children>
+            <TextField fx:id="nameField" alignment="CENTER_RIGHT" focusTraversable="false" layoutX="14.0" layoutY="7.0" prefHeight="25.0" prefWidth="309.0" promptText="Name" style="-fx-background-color: transparent; -fx-prompt-text-fill: white;">
+               <font>
+                  <Font name="Arial Bold Italic" size="14.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </TextField>
+         </children>
+      </Pane>
+      <Pane layoutX="840.0" layoutY="329.0" prefHeight="41.0" prefWidth="337.0" style="-fx-background-color: #D6D6D6;" stylesheets="@../style/style.css">
+         <styleClass>
+            <String fx:value="rounded-item" />
+            <String fx:value="shadow-login-text-field" />
+         </styleClass>
+         <children>
+            <TextField fx:id="surnameField" alignment="CENTER_RIGHT" focusTraversable="false" layoutX="14.0" layoutY="7.0" prefHeight="25.0" prefWidth="309.0" promptText="Surname" style="-fx-background-color: transparent; -fx-prompt-text-fill: white;">
+               <font>
+                  <Font name="Arial Bold Italic" size="14.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </TextField>
+         </children>
+      </Pane>
+      <Pane layoutX="840.0" layoutY="419.0" prefHeight="41.0" prefWidth="337.0" style="-fx-background-color: #D6D6D6;" stylesheets="@../style/style.css">
+         <styleClass>
+            <String fx:value="rounded-item" />
+            <String fx:value="shadow-login-text-field" />
+         </styleClass>
+         <children>
+            <PasswordField fx:id="passwordField" alignment="CENTER_RIGHT" focusTraversable="false" layoutX="14.0" layoutY="8.0" prefHeight="25.0" prefWidth="309.0" promptText="password" style="-fx-background-color: transparent; -fx-prompt-text-fill: white;">
+               <font>
+                  <Font name="Arial Bold Italic" size="14.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </PasswordField>
+         </children>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Pane>
+      <Pane layoutX="841.0" layoutY="509.0" prefHeight="41.0" prefWidth="337.0" style="-fx-background-color: #D6D6D6;" stylesheets="@../style/style.css">
+         <styleClass>
+            <String fx:value="rounded-item" />
+            <String fx:value="shadow-login-text-field" />
+         </styleClass>
+         <children>
+            <PasswordField fx:id="repeatPasswordField" alignment="CENTER_RIGHT" focusTraversable="false" layoutX="14.0" layoutY="8.0" prefHeight="25.0" prefWidth="309.0" promptText="repeat password" style="-fx-background-color: transparent; -fx-prompt-text-fill: white;">
+               <font>
+                  <Font name="Arial Bold Italic" size="14.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </PasswordField>
+         </children>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Pane>
+      <ImageView fx:id="leftImage" fitHeight="747.0" fitWidth="809.0">
+         <image>
+            <Image url="@../../../resources/images/final.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="signupBtn1" layoutX="22.0" layoutY="21.0" mnemonicParsing="false" onMouseClicked="#register" onMousePressed="#goBack" prefHeight="30.0" prefWidth="75.0" style="-fx-background-color: #DF028B;" stylesheets="@../style/style.css" text="back" textFill="WHITE">
+         <styleClass>
+            <String fx:value="rounded-item" />
+            <String fx:value="login-button" />
+         </styleClass>
+         <font>
+            <Font name="Arial Bold Italic" size="15.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+      <Label fx:id="errorLbl" layoutX="837.0" layoutY="567.0" prefHeight="19.0" prefWidth="437.0" text="I'm sorry! All fields need to be filled." textFill="#ffd2d2">
+         <font>
+            <Font name="Arial Bold Italic" size="12.0" />
+         </font>
+      </Label>
+      <Button fx:id="signupBtn" layoutX="840.0" layoutY="614.0" mnemonicParsing="false" onMouseClicked="#register" prefHeight="41.0" prefWidth="337.0" style="-fx-background-color: #DF028B;" stylesheets="@../style/style.css" text="Sign up" textFill="WHITE">
+         <styleClass>
+            <String fx:value="rounded-item" />
+            <String fx:value="login-button" />
+         </styleClass>
+         <font>
+            <Font name="Arial Bold Italic" size="25.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+   </children>
+</AnchorPane>

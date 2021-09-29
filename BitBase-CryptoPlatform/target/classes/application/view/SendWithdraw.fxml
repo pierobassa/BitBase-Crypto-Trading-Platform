@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="640.0" prefWidth="600.0" style="-fx-background-color: transparent;" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="application.controller.SendWithdrawController">
+   <children>
+      <Pane layoutX="29.0" layoutY="23.0" prefHeight="594.0" prefWidth="542.0" style="-fx-background-color: #5f69c2;" stylesheets="@../style/style.css">
+         <children>
+            <Pane fx:id="sendBtn" layoutX="71.0" layoutY="192.0" onMousePressed="#goToSend" prefHeight="68.0" prefWidth="401.0" stylesheets="@../style/style.css">
+               <styleClass>
+                  <String fx:value="rounded-item" />
+                  <String fx:value="shadow" />
+                  <String fx:value="deposit-button-suggestion" />
+               </styleClass>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <children>
+                  <Label layoutX="55.0" layoutY="22.0" text="SEND CRYPTO TO A FRIEND" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="21.0" />
+                     </font>
+                  </Label>
+               </children>
+            </Pane>
+            <Pane fx:id="withdrawBtn" layoutX="71.0" layoutY="483.0" onMousePressed="#goToWithdraw" prefHeight="68.0" prefWidth="401.0" stylesheets="@../style/style.css">
+               <styleClass>
+                  <String fx:value="rounded-item" />
+                  <String fx:value="shadow" />
+                  <String fx:value="deposit-button-suggestion" />
+               </styleClass>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <children>
+                  <Label layoutX="57.0" layoutY="22.0" text="WITHDRAW TO YOUR BANK" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="21.0" />
+                     </font>
+                  </Label>
+               </children>
+            </Pane>
+            <ImageView fx:id="sendImg" fitHeight="166.0" fitWidth="272.0" layoutX="136.0" layoutY="26.0">
+               <image>
+                  <Image url="@../../../resources/images/send.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="withdrawImg" fitHeight="166.0" fitWidth="272.0" layoutX="136.0" layoutY="317.0">
+               <image>
+                  <Image url="@../../../resources/images/withdraw.png" />
+               </image>
+            </ImageView>
+            <Pane fx:id="closeBtn" layoutX="419.0" layoutY="14.0" onMousePressed="#closeDialog" prefHeight="38.0" prefWidth="107.0" stylesheets="@../style/style.css">
+               <children>
+                  <Label layoutX="28.0" layoutY="6.0" prefHeight="26.0" prefWidth="52.0" text="CLOSE" textFill="#363b6a">
+                     <font>
+                        <Font name="Arial Bold Italic" size="14.0" />
+                     </font>
+                  </Label>
+               </children>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <styleClass>
+                  <String fx:value="send-withdraw-button" />
+                  <String fx:value="rounded-item" />
+               </styleClass>
+            </Pane>
+         </children>
+         <styleClass>
+            <String fx:value="rounded-item" />
+            <String fx:value="dialog-shadow" />
+         </styleClass>
+      </Pane>
+   </children>
+</AnchorPane>

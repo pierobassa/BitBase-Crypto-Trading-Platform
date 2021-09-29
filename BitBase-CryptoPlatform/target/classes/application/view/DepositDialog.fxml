@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="640.0" prefWidth="600.0" style="-fx-background-color: transparent;" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="application.controller.DepositDialogController">
+   <children>
+      <Pane layoutX="29.0" layoutY="23.0" prefHeight="557.0" prefWidth="542.0" style="-fx-background-color: #5f69c2;" stylesheets="@../style/style.css">
+         <styleClass>
+            <String fx:value="rounded-item" />
+            <String fx:value="dialog-shadow" />
+         </styleClass>
+         <children>
+            <Pane fx:id="cancelBtn" layoutX="326.0" layoutY="466.0" onMousePressed="#goBack" prefHeight="38.0" prefWidth="107.0" styleClass="dialog-button-deposit" stylesheets="@../style/style.css">
+               <children>
+                  <Label layoutX="33.0" layoutY="6.0" prefHeight="26.0" prefWidth="42.0" text="BACK" textFill="#363b6a">
+                     <font>
+                        <Font name="Arial Bold Italic" size="14.0" />
+                     </font>
+                  </Label>
+               </children>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Pane>
+            <Pane fx:id="depositBtn" layoutX="112.0" layoutY="458.0" onMousePressed="#deposit" prefHeight="53.0" prefWidth="202.0" stylesheets="@../style/style.css">
+               <children>
+                  <Label layoutX="65.0" layoutY="14.0" prefHeight="26.0" prefWidth="73.0" text="DEPOSIT" textFill="#363b6a">
+                     <font>
+                        <Font name="Arial Bold Italic" size="16.0" />
+                     </font>
+                  </Label>
+               </children>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <styleClass>
+                  <String fx:value="deposit-button-dialog" />
+                  <String fx:value="rounded-item" />
+               </styleClass>
+            </Pane>
+            <Pane layoutX="121.0" layoutY="32.0" prefHeight="180.0" prefWidth="300.0" stylesheets="@../style/style.css">
+               <styleClass>
+                  <String fx:value="rounded-item-home" />
+                  <String fx:value="shadow" />
+                  <String fx:value="deposit-card" />
+               </styleClass>
+               <children>
+                  <ImageView fx:id="cardImg" layoutX="201.0" layoutY="113.0">
+                     <image>
+                        <Image url="@../../../resources/images/icons/mastercard-icon.png" />
+                     </image>
+                  </ImageView>
+                  <Label fx:id="cardNameLbl" layoutX="14.0" layoutY="25.0" text="Samuel Fox" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="17.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="cardNumberPrivateLbl" layoutX="14.0" layoutY="72.0" text="**** **** ****" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="33.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="supplyLbl2" layoutX="16.0" layoutY="120.0" text="VALID" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="14.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="supplyLbl21" layoutX="121.0" layoutY="120.0" text="CVV" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="14.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="validLbl" layoutX="16.0" layoutY="140.0" text="10/25" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="15.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="cvvLbl" layoutX="121.0" layoutY="140.0" text="***" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="24.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="cardLast4NumbersLbl" layoutX="198.0" layoutY="72.0" text="5645" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="23.0" />
+                     </font>
+                  </Label>
+               </children>
+            </Pane>
+            <Pane layoutX="110.0" layoutY="247.0" prefHeight="41.0" prefWidth="323.0" style="-fx-background-color: white;" stylesheets="@../style/style.css">
+               <children>
+                  <TextField fx:id="cardNameField" focusTraversable="false" layoutX="15.0" layoutY="6.0" prefHeight="30.0" prefWidth="293.0" promptText="Name on card" style="-fx-background-color: white; -fx-text-fill: #363b6a;" styleClass="login-text-color" stylesheets="@../style/style.css">
+                     <font>
+                        <Font name="Arial Bold Italic" size="16.0" />
+                     </font>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                  </TextField>
+               </children>
+               <styleClass>
+                  <String fx:value="rounded-item-buy" />
+                  <String fx:value="shadow-crypto-previews" />
+               </styleClass>
+            </Pane>
+            <Pane layoutX="110.0" layoutY="313.0" prefHeight="41.0" prefWidth="323.0" style="-fx-background-color: white;" stylesheets="@../style/style.css">
+               <children>
+                  <TextField fx:id="cardNumber" focusTraversable="false" layoutX="15.0" layoutY="6.0" prefHeight="30.0" prefWidth="293.0" promptText="Card Number" style="-fx-background-color: white; -fx-text-fill: #363b6a;" styleClass="login-text-color" stylesheets="@../style/style.css">
+                     <font>
+                        <Font name="Arial Bold Italic" size="16.0" />
+                     </font>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                  </TextField>
+               </children>
+               <styleClass>
+                  <String fx:value="rounded-item-buy" />
+                  <String fx:value="shadow-crypto-previews" />
+               </styleClass>
+            </Pane>
+            <Pane layoutX="112.0" layoutY="384.0" prefHeight="41.0" prefWidth="202.0" style="-fx-background-color: white;" stylesheets="@../style/style.css">
+               <children>
+                  <TextField fx:id="expirationField" focusTraversable="false" layoutX="16.0" layoutY="6.0" prefHeight="28.0" prefWidth="171.0" promptText="Expiration (MM/YY)" style="-fx-background-color: white; -fx-text-fill: #363b6a;" styleClass="login-text-color" stylesheets="@../style/style.css">
+                     <font>
+                        <Font name="Arial Bold Italic" size="16.0" />
+                     </font>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                  </TextField>
+               </children>
+               <styleClass>
+                  <String fx:value="rounded-item-buy" />
+                  <String fx:value="shadow-crypto-previews" />
+               </styleClass>
+            </Pane>
+            <Pane layoutX="326.0" layoutY="384.0" prefHeight="41.0" prefWidth="107.0" style="-fx-background-color: white;" stylesheets="@../style/style.css">
+               <styleClass>
+                  <String fx:value="rounded-item-buy" />
+                  <String fx:value="shadow-crypto-previews" />
+               </styleClass>
+               <children>
+                  <PasswordField fx:id="cvvField" focusTraversable="false" layoutX="14.0" layoutY="6.0" prefHeight="30.0" prefWidth="79.0" promptText="CVV" style="-fx-background-color: white; -fx-text-fill: #363b6a;">
+                     <font>
+                        <Font name="Arial Bold Italic" size="16.0" />
+                     </font>
+                  </PasswordField>
+               </children>
+            </Pane>
+            <Label fx:id="errorLbl" layoutX="112.0" layoutY="521.0" prefHeight="26.0" prefWidth="345.0" text="I'm sorry! Expiration date is invalid." textFill="#ffeded" wrapText="true">
+               <font>
+                  <Font name="Arial Italic" size="14.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

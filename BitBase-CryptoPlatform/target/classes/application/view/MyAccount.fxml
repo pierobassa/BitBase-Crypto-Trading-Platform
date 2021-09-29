@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="640.0" prefWidth="600.0" style="-fx-background-color: transparent;" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="application.controller.MyAccountController">
+   <children>
+      <Pane layoutX="29.0" layoutY="23.0" prefHeight="594.0" prefWidth="542.0" style="-fx-background-color: #5f69c2;" stylesheets="@../style/style.css">
+         <children>
+            <Pane fx:id="upperContainer" layoutX="111.0" layoutY="69.0" prefHeight="228.0" prefWidth="372.0">
+               <children>
+                  <Pane layoutY="187.0" prefHeight="41.0" prefWidth="323.0" style="-fx-background-color: white;" stylesheets="@../style/style.css">
+                     <children>
+                        <TextField fx:id="usernameField" alignment="CENTER_RIGHT" focusTraversable="false" layoutX="104.0" layoutY="6.0" prefHeight="30.0" prefWidth="200.0" style="-fx-background-color: white; -fx-text-fill: #363b6a;" styleClass="login-text-color" stylesheets="@../style/style.css" text="pierobassa">
+                           <font>
+                              <Font name="Arial Bold Italic" size="16.0" />
+                           </font>
+                           <cursor>
+                              <Cursor fx:constant="DEFAULT" />
+                           </cursor>
+                        </TextField>
+                        <Label layoutX="14.0" layoutY="11.0" text="Username" textFill="#a8a8a8">
+                           <font>
+                              <Font name="Arial Bold Italic" size="17.0" />
+                           </font>
+                        </Label>
+                     </children>
+                     <styleClass>
+                        <String fx:value="rounded-item-buy" />
+                        <String fx:value="shadow-crypto-previews" />
+                     </styleClass>
+                  </Pane>
+                  <ImageView fx:id="img" fitHeight="198.0" fitWidth="239.0" layoutX="42.0" layoutY="-11.0">
+                     <image>
+                        <Image url="@../../../resources/images/myaccount.png" />
+                     </image>
+                  </ImageView>
+                  <Pane layoutX="333.0" layoutY="192.0" onMousePressed="#editUsername" prefHeight="32.0" prefWidth="32.0">
+                     <children>
+                        <ImageView fx:id="editIcon" fitHeight="16.0" fitWidth="16.0" layoutX="9.0" layoutY="8.0" onMousePressed="#editUsername">
+                           <image>
+                              <Image url="@../../../resources/images/icons/edit-icon.png" />
+                           </image>
+                        </ImageView>
+                     </children>
+                     <styleClass>
+                        <String fx:value="rounded-item" />
+                        <String fx:value="shadow" />
+                        <String fx:value="edit-button" />
+                     </styleClass>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                  </Pane>
+               </children>
+            </Pane>
+            <Pane fx:id="closeBtn" layoutX="419.0" layoutY="14.0" onMousePressed="#closeDialog" prefHeight="38.0" prefWidth="107.0" stylesheets="@../style/style.css">
+               <children>
+                  <Label layoutX="28.0" layoutY="6.0" prefHeight="26.0" prefWidth="52.0" text="CLOSE" textFill="#363b6a">
+                     <font>
+                        <Font name="Arial Bold Italic" size="14.0" />
+                     </font>
+                  </Label>
+               </children>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <styleClass>
+                  <String fx:value="send-withdraw-button" />
+                  <String fx:value="rounded-item" />
+               </styleClass>
+            </Pane>
+            <Pane fx:id="saveBtn" layoutX="200.0" layoutY="471.0" onMousePressed="#save" prefHeight="44.0" prefWidth="147.0">
+               <children>
+                  <Circle fill="#ff009d" layoutX="30.0" layoutY="22.0" radius="16.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+                  <Label layoutX="64.0" layoutY="12.0" text="Save" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="19.0" />
+                     </font>
+                  </Label>
+                  <ImageView fx:id="saveIcon" fitHeight="16.0" fitWidth="16.0" layoutX="22.0" layoutY="15.0">
+                     <image>
+                        <Image url="@../../../resources/images/icons/confirm-icon.png" />
+                     </image>
+                  </ImageView>
+               </children>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <styleClass>
+                  <String fx:value="rounded-item-menu-logout" />
+                  <String fx:value="shadow" />
+               </styleClass>
+            </Pane>
+            <Pane fx:id="changePasswordBtn" layoutX="163.0" layoutY="319.0" onMousePressed="#changePassword" prefHeight="44.0" prefWidth="220.0">
+               <children>
+                  <Label layoutX="28.0" layoutY="11.0" text="Change password" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Bold Italic" size="19.0" />
+                     </font>
+                  </Label>
+               </children>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <styleClass>
+                  <String fx:value="deposit-button-suggestion" />
+                  <String fx:value="shadow" />
+                  <String fx:value="rounded-item" />
+               </styleClass>
+            </Pane>
+            <Pane fx:id="oldPasswordPane" layoutX="112.0" layoutY="326.0" prefHeight="41.0" prefWidth="323.0" style="-fx-background-color: white;" stylesheets="@../style/style.css">
+               <styleClass>
+                  <String fx:value="rounded-item-buy" />
+                  <String fx:value="shadow-crypto-previews" />
+               </styleClass>
+               <children>
+                  <PasswordField fx:id="oldPasswordField" alignment="CENTER_RIGHT" focusTraversable="false" layoutX="19.0" layoutY="6.0" prefHeight="30.0" prefWidth="285.0" promptText="Old password" style="-fx-background-color: white; -fx-text-fill: #363b6a;">
+                     <font>
+                        <Font name="Arial Bold Italic" size="16.0" />
+                     </font>
+                  </PasswordField>
+               </children>
+            </Pane>
+            <Pane fx:id="newPasswordPane" layoutX="111.0" layoutY="395.0" prefHeight="41.0" prefWidth="323.0" style="-fx-background-color: white;" stylesheets="@../style/style.css">
+               <styleClass>
+                  <String fx:value="rounded-item-buy" />
+                  <String fx:value="shadow-crypto-previews" />
+               </styleClass>
+               <children>
+                  <PasswordField fx:id="newPasswordField" alignment="CENTER_RIGHT" focusTraversable="false" layoutX="19.0" layoutY="6.0" prefHeight="30.0" prefWidth="285.0" promptText="New password" style="-fx-background-color: white; -fx-text-fill: #363b6a;">
+                     <font>
+                        <Font name="Arial Bold Italic" size="16.0" />
+                     </font>
+                  </PasswordField>
+               </children>
+            </Pane>
+            <Label fx:id="errorLbl" alignment="CENTER" layoutX="60.0" layoutY="522.0" maxWidth="-Infinity" minWidth="-Infinity" prefHeight="26.0" prefWidth="427.0" text="I'm sorry! Insufficient funds. Please deposit." textFill="#ffeded" wrapText="true">
+               <font>
+                  <Font name="Arial Bold Italic" size="14.0" />
+               </font>
+            </Label>
+            <Pane fx:id="infoPasswordBtn" layoutX="445.0" layoutY="400.0" onMousePressed="#infoPasswordRequirements" prefHeight="32.0" prefWidth="32.0">
+               <styleClass>
+                  <String fx:value="rounded-item" />
+                  <String fx:value="shadow" />
+                  <String fx:value="edit-button" />
+               </styleClass>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <children>
+                  <ImageView fx:id="infoPasswordIcon" fitHeight="16.0" fitWidth="16.0" layoutX="8.0" layoutY="8.0">
+                     <image>
+                        <Image url="@../../../resources/images/icons/info-icon.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </Pane>
+         </children>
+         <styleClass>
+            <String fx:value="rounded-item" />
+            <String fx:value="dialog-shadow" />
+         </styleClass>
+      </Pane>
+   </children>
+</AnchorPane>
