@@ -33,3 +33,5 @@ SEND/WITHDRAW FUNCTIONS
 
 Client/Server Structure:
 
+![users](https://user-images.githubusercontent.com/64158778/135347186-71d05c45-82b5-4996-8551-738e00ba3d29.png)
+
