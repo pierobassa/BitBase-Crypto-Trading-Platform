@@ -4,6 +4,7 @@ BitBase is a Client-Server based Crypto trading platform which offers live prici
 Here are some previews:
 
 [HOME]
-https://user-images.githubusercontent.com/64158778/135338430-981c81bc-854e-4a9e-87eb-48381545cb28.mp4
+
+![ezgif com-gif-maker (13)](https://user-images.githubusercontent.com/64158778/135338583-0ac73001-d63e-4b67-b5cf-6fbad5520ea5.gif)
 
 
